@@ -18,6 +18,7 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@4.2.0
         with:
           local-dir: ./public/
+          state-name: ../.ftp-deploy-sync-state.json
           server: w00a5ba0.kasserver.com
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
