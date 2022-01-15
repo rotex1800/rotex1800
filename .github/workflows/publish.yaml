@@ -1,0 +1,26 @@
+name: Publish
+
+on:
+  - push: [main]
+
+env:
+  FTP_HOST: 
+
+
+jobs:
+  publish:
+    environment: Beta
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run Hugo Build
+        uses: lowply/build-hugo@v0.88.1
+
+      - name: Upload with FTP
+        uses: SamKirkland/FTP-Deploy-Action@4.2.0
+        with:
+          local-dir: ./public/
+          server: w00a5ba0.kasserver.com
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
