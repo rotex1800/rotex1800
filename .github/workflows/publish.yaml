@@ -14,6 +14,11 @@ jobs:
       - name: Run Hugo Build
         uses: lowply/build-hugo@v0.88.1
 
+      - name: Upload artifact
+        uses: actions/upload-artifact@v2
+        with:
+          path: ./public/
+
       - name: Upload with FTP
         uses: SamKirkland/FTP-Deploy-Action@4.2.0
         with:
