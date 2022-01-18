@@ -25,7 +25,7 @@ jobs:
           fi
           echo "::set-output name=configfile::${name}"
           echo "::set-output name=env-name::${envname}"
-          echo "::set-output url=env-url::${envurl}"
+          echo "::set-output name=env-url::${envurl}"
 
 
   publish:
