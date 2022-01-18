@@ -50,8 +50,10 @@ jobs:
           hugo-version: 'latest'
 
       - name: Run Hugo
+        env:
+          HUGO_ENVIRONMENT: ${{ needs.prepare.outputs.env-name }}
         run: |
-          hugo 
+          hugo --environment ${{ env.HUGO_ENVIRONMENT }}
 
       - name: Upload artifact
         uses: actions/upload-artifact@v2
