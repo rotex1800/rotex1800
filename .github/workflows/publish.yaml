@@ -11,6 +11,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - run: npm install
+
+      - run: npx tailwindcss -i ./css/main.css -o ./static/css/main.css --postcss postcss.config.js
+
       - name: Run Hugo Build
         uses: lowply/build-hugo@v0.88.1
 
@@ -24,7 +31,6 @@ jobs:
         with:
           local-dir: public/
           state-name: ../.ftp-deploy-sync-state.json
-          submodules: recursive
           server: w00a5ba0.kasserver.com
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}

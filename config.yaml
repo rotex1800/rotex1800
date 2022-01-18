@@ -1,8 +1,5 @@
 baseURL: https://rotex1800.de
 languageCode: de-de
 title: Rotex 1800 e.V.
-theme: rotex1800-hugo-theme
-themeDir: themes
-
 build:
   writeStats: true
