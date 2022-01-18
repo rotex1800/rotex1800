@@ -1,0 +1,5 @@
+baseURL: https://beta.rotex1800.de
+languageCode: de-de
+title: Rotex 1800 e.V.
+build:
+  writeStats: true
