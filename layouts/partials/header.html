@@ -41,9 +41,7 @@
                 <a href="{{ .Permalink }}" class="text-gray-500 hover:text-blue-400">{{ .Title }}</a>
             </li>
             {{ end }}
-            <li>
-                <a href="/kalender" class="text-gray-500 hover:text-blue-400">Kalender</a> 
-            </li>
+
             {{ range .Site.Sections }}
             <li>
                 <a href="{{ .Permalink }}" class="text-gray-500 hover:text-blue-400">{{ .Title }}</a>
