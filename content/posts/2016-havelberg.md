@@ -1,7 +1,9 @@
 ---
 date: 2016-06-17
+title: Goodbye-Wochenende – Havelberg 2016
+categories:
+    - wochenende
 ---
-# Goodbye-Wochenende – Havelberg 2016
 Für das sommerlichste aller Rotex-Wochenenden zeigte sich das Wetter von seiner
 besten Seite: Strahlender Sonnenschein und sommerliche Temperaturen weckten
 sofort die Lebensgeister aller Beteiligten. Der Rotary Club Havelberg lud erneut

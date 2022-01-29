@@ -1,4 +1,8 @@
-# Wochenenden
+---
+title: Wochenenden
+categories:
+    - rotex1800
+---
 Die Wochenenden sind der elementare Bestandteil des Angebotes, welches wir den
 Austauschschülern im Laufe eines Jahres bieten. Mindestens vier Wochenenden
 finden im Zeitraum eines Jahres statt, wobei der Veranstaltungsort davon

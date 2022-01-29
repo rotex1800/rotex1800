@@ -1,7 +1,9 @@
 ---
 date: 2019-04-15
+title: EuropaTour 2019
+categories:
+    - wochenende
 ---
-# EuropaTour 2019
 Die 21. EuropaTour ist vorbei und in den sozialen Medien lassen die Austauschschüler*innen die Tour Revue passieren. Aber Halt, wir sprechen hier von TourEN! Denn wenn es nicht genug Plätze auf einer Tour gibt, dann wird einfach eine Paralleltour organisiert und noch ein anderer Distrikt eingeladen. Insgesamt machten 93 Austauschschüler*innen, Dank Rotex 1800 e.V. Europa unsicher.
 
 ![Die Tour in Rom auf dem Petersplatz](/img/2019-europatour.jpg)

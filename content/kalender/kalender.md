@@ -1,3 +1,6 @@
+---
+slug: kalender
+---
 # Kalender
 
 | Termin                   | Veranstaltung                   | Ort          |

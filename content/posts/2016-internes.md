@@ -1,7 +1,9 @@
 ---
 date: 2017-01-07
+title: Internes Arbeitswochendene – Gifhorn 2016
+categories:
+    - wochenende
 ---
-# Internes Arbeitswochendene – Gifhorn 2016
 Zwischen den Jahren trafen sich vom 27.-29. Dezember arbeitswillige Rotexer im evangelischen Jugendheim Gifhorn zu den Internen Arbeitstagen von Rotex. Als willkommene Abwechslung drehte sich an diesem Wochenende einmal nicht alles um die Bespaßung der Austauschschüler, sondern es war Zeit und Gelegenheit da, wichtige Dinge und Neuerungen zu besprechen und in Workshops die Rotex-Aktivitäten weiterzuentwickeln.
 
 Erstmals konnten auch die anwesenden Neu-Rotexer, Rebounds des Jahres 2016 an der Mitgliederversammlung teilnehmen, bei der die Rotexer das vergangenen Jahr Revue passieren ließen, die Finanzen des Vereins dargelegt wurden und der Vorstand einen Ausblick auf das kommende Jahr gab. Intensive Diskussionen gab es zu der Frage, wie man Rotex umweltfreundlicher machen könnte und es gab unter anderem die Vorschläge, bei Rotex-Wochenenden auf Plastikflaschen zu verzichten und einige Mahlzeiten ausschließlich vegetarisch anzubieten.

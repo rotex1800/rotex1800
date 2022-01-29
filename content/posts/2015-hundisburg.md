@@ -1,7 +1,9 @@
 ---
 date: 2015-02-22
+title: Hundisburg 2015 – Faschingswochenende
+categories:
+    - wochenende
 ---
-# Hundisburg 2015 – Faschingswochenende
 
 Strahlender Sonnenschein begrüßteAustauschschüler und Rotexer, die am
 Freitagnachmittag mit dem Zug in Haldensleben anreisten. Der vom Rotary Club

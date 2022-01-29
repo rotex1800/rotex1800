@@ -1,7 +1,9 @@
 ---
 date: 2018-10-22
+title: Welcome Camp - Halle 2018
+categories:
+    - wochenende
 ---
-# Welcome Camp - Halle 2018
 In diesem Jahr hat Rotex zum ersten Mal das Deutschland Camp für die Inbounds
 veranstaltet. Dieses hat vom 1. bis zum 6. Oktober 2018 in der wunderschönen
 Stadt Halle stattgefunden. Unser Hauptanliegen war es den neu angekommenen

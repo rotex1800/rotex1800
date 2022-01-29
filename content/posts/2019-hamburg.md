@@ -1,7 +1,9 @@
 ---
 date: 2019-06-20
+title: Moin Hamburg!
+categories:
+    - wochenende
 ---
-# Moin Hamburg!
 Anfang Juni fand die jährliche Rotary International Convention (RIC) in Hamburg
 statt, also quasi vor der Haustür des Distrikts 1800. Die Gelegenheit eine RIC
 zu Besuchen und an dieser aktiv teilzuhaben wollten sich auch rund 20 unserer

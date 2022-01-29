@@ -1,8 +1,10 @@
 ---
 date: 2015-10-03
+title: Welcome-Wochenende – Neustadt 2015
+categories:
+    - wochenende
 ---
 
-# Welcome-Wochenende – Neustadt 2015
 Am vergangenen Wochenende war es wieder soweit: „Die Neuen“ waren angekommen.
 Gut 50 Austauschschüler aus 14 verschiedenen Ländern haben nun, da sie seit ein
 paar Wochen in Deutschland leben, das erste Mal einander und Rotex

@@ -1,7 +1,9 @@
 ---
 date: 2015-04-25
+title: Die Hippies sind zurück! – EuropaTour Revival Wochenende
+categories:
+    - wochenende
 ---
-# Die Hippies sind zurück! – EuropaTour Revival Wochenende
 
 Am vergangenen Wochenende wurde ein großes Wiedersehen für die Austauschschüler
 in Lüneburg organisiert. Nach einer ereignisreichen Europa Tour fanden sich alle

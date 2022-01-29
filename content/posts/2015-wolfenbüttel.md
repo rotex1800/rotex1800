@@ -1,9 +1,11 @@
 ---
 date: 2016-01-02
 author: Theresa Bettecken
+title: Weihnachts-Wochenende – Wolfenbüttel 2015
+categories:
+    - wochenende
 ---
 
-# Weihnachts-Wochenende – Wolfenbüttel 2015
 
 Oh Tannenbaum, oh Tannenbaum, wie grün sind deine Blätter! Bekanntes Lied, neue
 Location: Dieses Weihnachtswochenende gab sich der Rotary-Club Wolfenbüttel die

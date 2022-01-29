@@ -1,8 +1,10 @@
 ---
 date: 2017-02-24
+title: Hundisburg 2017 – Faschingswochenende
+categories:
+    - wochenende
 ---
 
-# Hundisburg 2017 – Faschingswochenende
 Wie jedes Jahr im Februar hieß es auch dieses Jahr wieder „Das Schloss ruft!“
 und so trafen sich vom 17.-19. Februar die Rotexer und Inbounds zum
 Faschingswochende im Schloss Hundisburg.

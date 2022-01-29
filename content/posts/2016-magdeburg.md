@@ -1,7 +1,9 @@
 ---
 date: 2016-05-06
+title: ET Revival – Magdeburg 2016
+categories:
+    - wochenende
 ---
-# ET Revival – Magdeburg 2016
 
 Ist denn die Elbe immer noch die selbe, fragt sich der Dom und wundert sich: So
 viele Inbounds, Outbounds und Rotexer gleichzeitig in der Elbstadt, das ist ja
