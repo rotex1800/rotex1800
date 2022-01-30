@@ -1,8 +1,10 @@
 ---
 date: 2016-02-25
+title: Die Narren sind los! Und ein paar Rotexer waren auch dabei…
+categories:
+    - wochenende
 ---
 
-# Die Narren sind los! Und ein paar Rotexer waren auch dabei…
 
 Vom 12.-14. Februar war die Hundisburg wieder erfüllt von interkulturellem
 Leben. 48 Austauschschüler von Taiwan bis Mexiko machten passend zum

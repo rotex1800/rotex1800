@@ -1,8 +1,10 @@
 ---
 date: 2017-09-30
+title: Steinhude 2017 - Welcomewochenende
+categories:
+    - wochenende
 ---
 
-# Steinhude 2017 - Welcomewochenende
 
 Vom 15.-17. September fand für unsere Inbounds ihr aller erstes Rotexwochende,
 das sogenannte „Welcome-Wochenende“, direkt am Steinhuder Meer statt. Nach der

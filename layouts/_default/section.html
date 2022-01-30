@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+{{ range first 4 .Pages }}
+<article class="prose lg:prose-lg">
+    <div>{{ .Date.Format "02. January 2006" }}</div>
+    <h2 class="px-6 mx-auto mt-0 text-gray-700 justify-self-center sm:px-4 md:px-0"><a
+            href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <div>
+        {{ .Summary }}
+        {{ if .Truncated }}
+        <a class="inline-block w-4" href="{{ .RelPermalink }}">↠</a>
+        {{ end }}
+    </div>
+</article>
+{{ end }}
+
+{{ end }}

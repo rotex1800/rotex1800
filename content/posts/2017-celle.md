@@ -1,8 +1,10 @@
 ---
 date: 2017-12-17
+title: Celle 2017 - Weihnachtswochenende
+categories:
+    - wochenende
 ---
 
-# Celle 2017 - Weihnachtswochenende
 Am 2. Adventswochenende fand für Rotexer:innen, Rebounds und natürlich Inbounds
 das Weihnachtswochenende in Celle statt. Am Freitagnachmittag gelangten bei
 leichtem Schnee nach und nach alle zu unserer Unterkunft.

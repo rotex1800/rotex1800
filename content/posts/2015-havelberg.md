@@ -1,7 +1,9 @@
 ---
 date: 2015-06-14
+title: Ein Sahnehäubchen zum Abschied – Havelberg 2015
+categories:
+    - wochenende
 ---
-# Ein Sahnehäubchen zum Abschied – Havelberg 2015
 
 Am ersten Juniwochenende sind die diesjährigen Austauschschüler ein letztes Mal
 bei einem Rotex Wochenende zusammen gekommen, um auf ihr gemeinsames Jahr

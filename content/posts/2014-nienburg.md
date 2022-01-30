@@ -1,9 +1,9 @@
 ---
 date: 2014-09-15
-tags:
-  - Wochenende
+title: Nienburg 2014 – Welcome Wochenende
+categories: 
+    - Wochenende
 ---
-# Nienburg 2014 – Welcome Wochenende
 Vom 19.09 bis zum 21.09.2014 lud Rotex 1800 e.V.  alle Inbounds  der aktuellen
 Saison 2014/2015, sowie die Rebounds des Austauschjahres 2013/2014 zu einem
 gemeinsamen Wochenende in Nienburg ein.  Dieses Wochenende war das erste
@@ -24,7 +24,7 @@ Nienburg kurz vor und hießen uns alle herzlich willkommen.
 Danach ging es in die Turnhalle der Leinetor Schule, wo die Rotexer eine kleine
 Präsentation vorbereitet hatten. Rotex Präsident Paul Schuberth hat den
 Austauschschülern kurz die Regeln für das Wochenende und ihren Austausch
-erklärt∑ und seine Helfenden Hände vorgestellt. 
+erklärt und seine Helfenden Hände vorgestellt. 
 
 Nach einem leckeren, bunt gemischten Buffet am Freitagabend und dem
 Landesgruppen Candle Light Talk, kamen wir alle zum Spielen und tanzen zusammen.

@@ -1,7 +1,9 @@
 ---
 date: 2017-09-20
+title: Reboundschulung - Uelzen 2017
+categories:
+    - wochenende
 ---
-# Reboundschulung - Uelzen 2017
 Als Neuerung wurde dieses Jahr die Reboundschulung eingeführt, also ein ganzes
 Wochenende, das sich komplett um die Rebounds, die gerade aus dem Austausch
 zurückgekehrten Austauschschüler, drehen sollte. Zuvor hatte es nur den

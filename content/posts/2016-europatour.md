@@ -1,7 +1,9 @@
 ---
 date: 2016-04-25
+title: Von Brüssel nach Prag - von einem Abenteuer ins nächste
+categories:
+    - wochenende
 ---
- # Von Brüssel nach Prag - von einem Abenteuer ins nächste
 
 „Woohooo!“ „Juhu, endlich!“ „Habe ich auch wirklich an ein Handtuch gedacht?“
 und „Ahh, es geht los!“ waren in etwa die freudigen Ausrufe, die am Morgen des

@@ -1,8 +1,10 @@
 ---
 date: 2017-07-05
+title: Outbound-Schulung - Helmstedt/Königslutter 2017
+categories:
+    - wochenende
 ---
 
-# Outbound-Schulung - Helmstedt/Königslutter 2017
 Oh, wie schön war wieder die Outboundschulung in diesem Jahr. Zusammen mit der
 Sonne trudelten am Freitag, den 30.07.2017 auch die Outbounds zu unserer
 alljährlichen Outboundschulung in Helmstedt ein. Mit viel guter Laune starteten

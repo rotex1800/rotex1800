@@ -1,7 +1,9 @@
 ---
 date: 2019-03-03
+title: Faschingswochenende - Hundisburg 2019
+categories:
+    - wochenende
 ---
-# Faschingswochenende - Hundisburg 2019
 Wie jedes Jahr im Februar fand auch dieses Jahr unser Faschingswochenende wieder
 auf der Hundisburg, vom 22.- 24.02 statt.
 

@@ -1,7 +1,9 @@
 ---
 date: 2015-08-06
+title: Königslutter 2015 – Outboundschulung
+categories:
+    - wochenende
 ---
-# Königslutter 2015 – Outboundschulung
 Am ersten Juliwochenende diesem Jahres kamen unsere Outbounds ein letztes Mal
 zusammen bevor sie sich auf ihre große Reise in verschiedenste Länder begeben. 
 

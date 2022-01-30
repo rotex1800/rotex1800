@@ -1,7 +1,9 @@
 ---
 date: 2017-01-06
+title: Weihnachts-Wochenende – Uelzen 2016
+categories:
+    - wochenende
 ---
-# Weihnachts-Wochenende – Uelzen 2016
 In Uelzen wurde Weihnachten dieses Jahr schon am dritten Adventswochenende eingeläutet und zwar in alter Rotex-Tradition mit dem jährlichen Weihnachtswochenende im Dezember. Dies enthält neben den üblichen Bestandteilen eines Rotex-Wochenendes wie einem leckeren Buffet aus mitgebrachten Sachen, einer Kostümparty und dem Candle-Light auch einige besondere Programmpunkte.
 
 Am Freitag erhielten die Inbounds lang ersehnte Informationen zur EuropaTour, die im kommenden Jahr vom 26.03.-15.04. stattfinden wird. Anschließend mussten die Inbounds sich sogleich beweisen, denn ein Deutschtest stand an. Dessen Zweck war einerseits, den Stand der Deutschkenntnisse nach mehr als drei Monaten zu überprüfen und den Inbounds die zentrale Bedeutung des Spracherwerbs im rotarischen Austauschprogramm zu verdeutlichen und andererseits, um später als Kriterium für die Platzvergabe der Europa-Tour zu dienen.

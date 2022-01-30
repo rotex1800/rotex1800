@@ -1,0 +1,3 @@
+[submodule "themes/rotex1800-winston-theme"]
+	path = themes/rotex1800-winston-theme
+	url = git@github.com:paulschuberth/hugo-winston-theme.git

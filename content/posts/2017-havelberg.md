@@ -1,7 +1,9 @@
 ---
 date: 2017-06-14
+title: Havelberg 2017 - Goodbye Wochenende
+categories:
+    - wochenende
 ---
-# Havelberg 2017 - Goodbye Wochenende
 Fragt man in Rotex-Kreisen nach dem Lieblingswochenende der Rotexer, antworten
 viele wie aus der Pistole geschossen: „Havelberg!“ Und all jene Havelberg-Fans
 hatten Glück, denn am vergangenen Wochenende fand die 18. Ausgabe des

@@ -1,7 +1,9 @@
 ---
 date: 2016-09-19
+title: Welcome-Wochenende – Göttingen 2016
+categories:
+    - wochenende
 ---
-# Welcome-Wochenende – Göttingen 2016
 Während das Wetter den Herbstbeginn einläutete, hatten die Rotexer von Rotex
 1800 e.V. am vergangenen Wochenende allerhand zu tun, denn die 59 Inbounds aus
 16 Ländern, die zurzeit im Distrikt 1800 zuhause sind, waren zum

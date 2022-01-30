@@ -1,7 +1,9 @@
 ---
 date: 2018-06-04
+title: EuropaTour Revival - Lüneburg 2018
+categories:
+    - wochenende
 ---
-# EuropaTour Revival - Lüneburg 2018
 
 Am 4. Mai war es mal wieder so weit und ein neues Rotexwochenende, diesmal in
 Lüneburg, begann. Das besondere bei diesem Wochenende war, dass diesmal nicht

@@ -1,7 +1,9 @@
 ---
 date: 2019-05-27
+title: ET Revival Wochenende in Hildesheim
+categories:
+    - wochenende
 ---
-# ET Revival Wochenende in Hildesheim
 Nachdem unsere Inbounds für drei Wochen die Zeit auf den beiden Europa Touren
 genossen haben, hatten sie die Chance sich auf dem diesjährigen Europa-Tour-
 Revival-Wochenende in Hildesheim wiederzusehen, wie vorher auch war das

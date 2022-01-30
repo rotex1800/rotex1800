@@ -1,0 +1,4 @@
+{{ $table := `(<table>(?:.|\n)+?</table>)` }}
+{{ $improvedTable := printf `<section class="scroll" tabindex="0"> ${1} </section>` }}
+
+{{ .Content | replaceRE $table $improvedTable | safeHTML }}

@@ -3,3 +3,6 @@ languageCode: de-de
 title: Rotex 1800 e.V.
 build:
   writeStats: true
+
+taxonomies:
+  category: categories
