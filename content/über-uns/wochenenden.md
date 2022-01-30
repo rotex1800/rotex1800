@@ -2,6 +2,7 @@
 title: Wochenenden
 categories:
     - rotex1800
+menu: main
 ---
 Die Wochenenden sind der elementare Bestandteil des Angebotes, welches wir den
 Austauschschülern im Laufe eines Jahres bieten. Mindestens vier Wochenenden
@@ -13,10 +14,12 @@ Im allgemeinen läuft ein Rotex-Wochenende wie folgt ab:
 
 * Freitags Anreise ab 16 Uhr, Begrüßung, Anmeldung, Abendessen, Candle Light
   Talk, Party
+
 * Samstags Besichtigung örtlicher Sehenswürdigkeiten gemeinsamer
   Schwimmbadbesuch, Besuch einer Eissporthalle, Stadtralleys, Wanderungen o.ä.;
   Gesprächsrunden, Tipps und Tricks für das Austauschjahr, Fragen Party,
   Musik...
+
 * Sonntags Frühstück, Aufräumen und Abreise
 
 Ein solches Wochenende finanziert sich durch den pro Teilnehmer zu zahlenden
@@ -29,6 +32,7 @@ Turnhallen ein, um den Austauschschülern ein möglichst vielfältiges
 Freizeitangebot bieten zu können.
 
 {{<  youtube yv8YAEmCkWQ >}}
+
 
 Aus diesem Grund sind wir natürlich froh über jede Unterstützung die wir
 bekommen können. In der Vergangenheit sind wir von Zeit zu Zeit von Rotary Clubs

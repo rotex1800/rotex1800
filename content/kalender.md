@@ -1,7 +1,9 @@
 ---
-slug: kalender
+slug: /kalender
+title: Kalender
+menu: main
+weight: 100
 ---
-# Kalender
 
 | Termin                   | Veranstaltung                   | Ort          |
 | ------------------------ | ------------------------------- | ------------ |

@@ -6,9 +6,9 @@ title: Welcome Camp!
 Über die deutsche Sprache, Politik, Geschichte, Kultur, Europa und warum es den 
 Jugendaustausch braucht:
 
-Vielen Dank für die Unterstützung des Rotary Club Merseburg, Rotary Club
+*Vielen Dank für die Unterstützung des Rotary Club Merseburg, Rotary Club
 Halle/Saale und Rotary Club Georg Friedrich. Außerdem ein riesiges Dankeschön
-an unsere Organisatorinnen von Rotex Seite, Merit und Sina Gussek!
+an unsere Organisatorinnen von Rotex Seite, Merit und Sina Gussek!*
 
 ![Gruppenfoto in Halle](/img/2019-welcome-camp.jpg)
 

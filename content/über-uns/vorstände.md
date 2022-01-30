@@ -1,9 +1,9 @@
 ---
 title: Vorstände
-categories:
-    - rotex1800
+categories: [rotex1800]
+menu: main
+date: 2022-01-14
 ---
-
 | Jahr                 | Präsident:in        | Vizepräsident:in                   | Schatzmeister:in                   | Schriftführer:in | Beisitzer:in        |
 | -------------------- | ------------------- | ---------------------------------- | ---------------------------------- | ---------------- | ------------------- |
 | Jan 2022 / heute     | Lynn Kuhlwein       | Benedict Augustin                  | Freya Schütze                      | Frederik Pinkau  | Paul Schuberth      |
