@@ -5,34 +5,10 @@ on:
     branches: [main]
 
 jobs:
-  prepare:
-    outputs:
-      config-file: ${{ steps.config.outputs.configfile }}
-      env-name: ${{ steps.config.outputs.env-name }}
-      env-url: ${{ steps.config.outputs.env-url }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Select configuration
-        id: config
-        run: |
-          name=config.beta.yaml
-          envname=Beta
-          envurl="https://beta.rotex1800.de"
-          if [[ "${{ inputs.environment }}" == Live ]]; then
-            name=config.yaml
-            envname=Live
-          envurl="https://rotex1800.de"
-          fi
-          echo "::set-output name=configfile::${name}"
-          echo "::set-output name=env-name::${envname}"
-          echo "::set-output name=env-url::${envurl}"
-
-
   publish:
-    needs: [ prepare ]
-    environment: 
-      name: ${{ needs.prepare.outputs.env-name }}
-      url: ${{ needs.prepare.outputs.env-url }}
+    environment:
+      name: Live
+      url: https://rotex1800.de
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -51,10 +27,8 @@ jobs:
           extended: true
 
       - name: Run Hugo
-        env:
-          HUGO_ENVIRONMENT: ${{ needs.prepare.outputs.env-name }}
         run: |
-          hugo --environment ${{ env.HUGO_ENVIRONMENT }}
+          hugo --minify
 
       - name: Upload artifact
         uses: actions/upload-artifact@v2

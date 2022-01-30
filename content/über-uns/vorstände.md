@@ -4,6 +4,9 @@ categories: [rotex1800]
 menu: main
 date: 2022-01-14
 ---
+
+Sofern nicht anders angegeben bezieht sich die Jahreszahl auf die Wahl während der JHV im Sommer.
+
 | Jahr                 | Präsident:in        | Vizepräsident:in                   | Schatzmeister:in                   | Schriftführer:in | Beisitzer:in        |
 | -------------------- | ------------------- | ---------------------------------- | ---------------------------------- | ---------------- | ------------------- |
 | Jan 2022 / heute     | Lynn Kuhlwein       | Benedict Augustin                  | Freya Schütze                      | Frederik Pinkau  | Paul Schuberth      |
@@ -30,5 +33,3 @@ date: 2022-01-14
 | 2002/03              | Maike Baumgarten    | Andreas Kerl                       | Andrea Kabitze                     | Alina Paczkowski |                     |
 | 2001/02              | Nils Oppermann      | Claudia Olbrich                    | Felix Banholzer                    | Jens Lipka       |                     |
 | 2000/01              | Nils Oppermann      | Claudia Olbrich                    | Felix Banholzer                    | Jens Lipka       |                     |
-
-Sofern nicht anders angegeben bezieht sich die Jahreszahl auf die Wahl während der JHV im Sommer.
