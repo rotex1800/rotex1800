@@ -29,7 +29,7 @@ url: /satzung
 7. Es darf keine Person durch Ausgaben, die den Zielen des Vereins fremd sind oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 8. Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
 
-# 3 Mitgliedschaft
+# § 3 Mitgliedschaft
 
 1. Die Mitgliedschaft im Verein wird durch Aufnahme erworben. Über die Aufnahme entscheidet der Vorstand auf schriftlichen Antrag.
 2. Mitglieder entrichten einen Mitgliedsbeitrag dessen Höhe und Fälligkeit von der Mitgliederversammlung festgesetzt wird.
