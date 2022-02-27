@@ -22,7 +22,7 @@ weight: 100
 Mehr Informationen bei [Rotex Deutschland](https://deutschland.rotex.org/2020/12/23/dachko-2021/)
 
 ## Outboundschulung
-Termin und Ort sind noch offen
+08\. bis 10. Juli in Wolfsburg
 
 ## Rotex 1800 Academy Teil 3
 16\. und 17. Juni
