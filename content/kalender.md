@@ -25,7 +25,7 @@ Mehr Informationen bei [Rotex Deutschland](https://deutschland.rotex.org/2020/12
 08\. bis 10. Juli in Wolfsburg
 
 ## Rotex 1800 Academy Teil 3
-16\. und 17. Juni
+16\. und 17. Juli
 
 ## Rotex International Convention
 4\. bis 8. August 2022 in Curitiba
