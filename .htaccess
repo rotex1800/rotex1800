@@ -1,2 +1,2 @@
-Redirect / /posts
-Redirect /home /posts
+RedirectMatch "^/$" /posts
+RedirectMatch "^/home$" "https://rotex1800.de/posts/"
