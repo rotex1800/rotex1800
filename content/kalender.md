@@ -33,3 +33,15 @@ Mehr Informationen bei [Rotex Deutschland](https://deutschland.rotex.org/2020/12
 
 ## Jahreshauptversammlung
 August 2022 in Gut Nienfeld
+
+## Welcome Wochenende
+16\. bis 18. September 2022
+
+## Welcome Camp
+19\. bis 23. Oktober 2022
+
+## Weihnachtswochenende
+25\. bis 27. November 2022
+
+## Bewerberwochenende
+9\. bis 11. Dezember 2022 in Magdeburg
