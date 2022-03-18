@@ -12,7 +12,7 @@ weight: 100
 19\. und 13. März 2022
 
 ## Rotex 1800 Academy Teil 2
-13\. und 14. Mai 2022
+14\. und 15. Mai 2022
 
 ## Rotary International Convetion
 3\. bis 8. Juni 2022 in Houston
