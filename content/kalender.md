@@ -1,8 +1,9 @@
 ---
 slug: /kalender
 title: Kalender
-menu: main
-weight: 100
+menu:
+    main:
+        weight: 90
 ---
 
 ## Bewerberwochenende
@@ -22,13 +23,25 @@ weight: 100
 Mehr Informationen bei [Rotex Deutschland](https://deutschland.rotex.org/2020/12/23/dachko-2021/)
 
 ## Outboundschulung
-Termin und Ort sind noch offen
+08\. bis 10. Juli in Wolfsburg
 
 ## Rotex 1800 Academy Teil 3
-16\. und 17. Juni
+16\. und 17. Juli
 
 ## Rotex International Convention
 4\. bis 8. August 2022 in Curitiba
 
 ## Jahreshauptversammlung
 August 2022 in Gut Nienfeld
+
+## Welcome Wochenende
+16\. bis 18. September 2022
+
+## Welcome Camp
+19\. bis 23. Oktober 2022
+
+## Weihnachtswochenende
+25\. bis 27. November 2022
+
+## Bewerberwochenende
+9\. bis 11. Dezember 2022 in Magdeburg

@@ -1,0 +1,2 @@
+RedirectMatch "^/$" /posts
+RedirectMatch "^/home$" "https://rotex1800.de/posts/"

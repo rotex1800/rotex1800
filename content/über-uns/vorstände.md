@@ -1,7 +1,10 @@
 ---
 title: Vorstände
 categories: [rotex1800]
-menu: main
+menu:
+    main:
+        weight: 3
+
 date: 2022-01-14
 ---
 
