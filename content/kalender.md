@@ -16,11 +16,11 @@ menu:
 14\. und 15. Mai 2022
 
 ## Rotary International Convetion
-3\. bis 8. Juni 2022 in Houston
+3\. bis 08. Juni 2022 in Houston
 
 ## Rotex DAChKo
 16\. bis 19. Juni bei Salzburg
-Mehr Informationen bei [Rotex Deutschland](https://deutschland.rotex.org/2020/12/23/dachko-2021/)
+Mehr Informationen bei [Rotex Deutschland](https://deutschland.rotex.org/2022/03/20/rotex-dachko-2022/)
 
 ## Outboundschulung
 08\. bis 10. Juli in Wolfsburg
@@ -29,7 +29,7 @@ Mehr Informationen bei [Rotex Deutschland](https://deutschland.rotex.org/2020/12
 16\. und 17. Juli
 
 ## Rotex International Convention
-4\. bis 8. August 2022 in Curitiba
+04\. bis 08. August 2022 in Curitiba
 
 ## Jahreshauptversammlung
 August 2022 in Gut Nienfeld
@@ -44,4 +44,4 @@ August 2022 in Gut Nienfeld
 25\. bis 27. November 2022
 
 ## Bewerberwochenende
-9\. bis 11. Dezember 2022 in Magdeburg
+09\. bis 11. Dezember 2022 in Magdeburg
