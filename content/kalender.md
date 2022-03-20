@@ -6,6 +6,9 @@ menu:
         weight: 90
 ---
 
+[Die Termine können auch abonniert](https://storage.rotex1800.de/remote.php/dav/public-calendars/St4BEmjY2CqQaqHt?export) werden um sie im Kalender auf dem
+Smartphone oder Computer zu nutzen.
+
 ## Bewerberwochenende
 18\. bis 20. Februar 2022 in Magdeburg
 
@@ -32,13 +35,13 @@ Mehr Informationen bei [Rotex Deutschland](https://deutschland.rotex.org/2022/03
 04\. bis 08. August 2022 in Curitiba
 
 ## Jahreshauptversammlung
-August 2022 in Gut Nienfeld
+26\. bis 28. August 2022 in Gut Nienfeld
 
 ## Welcome Wochenende
 16\. bis 18. September 2022
 
 ## Welcome Camp
-19\. bis 23. Oktober 2022
+17\. bis 22. Oktober 2022
 
 ## Weihnachtswochenende
 25\. bis 27. November 2022
