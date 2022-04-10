@@ -3,6 +3,9 @@ slug: /kalender
 title: Kalender
 ---
 
+[Die Termine können auch abonniert](https://storage.rotex1800.de/remote.php/dav/public-calendars/St4BEmjY2CqQaqHt?export) werden um sie im Kalender auf dem
+Smartphone oder Computer zu nutzen.
+
 ## Bewerberwochenende
 18\. bis 20. Februar 2022 in Magdeburg
 
@@ -13,11 +16,11 @@ title: Kalender
 14\. und 15. Mai 2022
 
 ## Rotary International Convetion
-3\. bis 8. Juni 2022 in Houston
+3\. bis 08. Juni 2022 in Houston
 
 ## Rotex DAChKo
 16\. bis 19. Juni bei Salzburg
-Mehr Informationen bei [Rotex Deutschland](https://deutschland.rotex.org/2020/12/23/dachko-2021/)
+Mehr Informationen bei [Rotex Deutschland](https://deutschland.rotex.org/2022/03/20/rotex-dachko-2022/)
 
 ## Outboundschulung
 08\. bis 10. Juli in Wolfsburg
@@ -26,19 +29,19 @@ Mehr Informationen bei [Rotex Deutschland](https://deutschland.rotex.org/2020/12
 16\. und 17. Juli
 
 ## Rotex International Convention
-4\. bis 8. August 2022 in Curitiba
+04\. bis 08. August 2022 in Curitiba
 
 ## Jahreshauptversammlung
-August 2022 in Gut Nienfeld
+26\. bis 28. August 2022 in Gut Nienfeld
 
 ## Welcome Wochenende
 16\. bis 18. September 2022
 
 ## Welcome Camp
-19\. bis 23. Oktober 2022
+17\. bis 22. Oktober 2022
 
 ## Weihnachtswochenende
 25\. bis 27. November 2022
 
 ## Bewerberwochenende
-9\. bis 11. Dezember 2022 in Magdeburg
+09\. bis 11. Dezember 2022 in Magdeburg
