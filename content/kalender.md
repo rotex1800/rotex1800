@@ -1,9 +1,6 @@
 ---
 slug: /kalender
 title: Kalender
-menu:
-    main:
-        weight: 90
 ---
 
 ## Bewerberwochenende

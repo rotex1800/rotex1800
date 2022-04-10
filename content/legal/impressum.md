@@ -1,6 +1,9 @@
 ---
 title: Impressum
 url: /impressum
+menu:
+    legal:
+        weight: 100
 ---
 
 ## Angaben gemäß § 5 TMG:

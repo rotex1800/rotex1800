@@ -6,9 +6,9 @@ build:
   writeStats: true
 
 params:
-  showPostsOnHomepage: true
-  showDateOnPosts: true
   addFrame: true
+  logo:
+    standard: /img/logo.png
 
 taxonomies:
   category: categories
@@ -19,3 +19,27 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+summaryLength: 15
+
+menus:
+  legal:
+    - name: Satzung
+      url: /satzung
+      weight: 1
+    - name: Impressum
+      url: /impressum
+      weight: 2
+  main:
+    - name: Posts
+      url: /posts
+      weight: 1
+    - name: Über uns
+      url: /über-uns
+      weight: 3
+    - name: Kalender
+      url: /kalender
+      weight: 4
+    - name: Downloads
+      url: /downloads
+      weight: 5

@@ -1,6 +1,9 @@
 ---
 title: Satzung
 url: /satzung
+menu:
+    legal:
+        weight: 100
 ---
 
 # § 1 Name, Sitz und Geschäftsjahr
