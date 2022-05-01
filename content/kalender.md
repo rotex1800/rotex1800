@@ -6,12 +6,6 @@ title: Kalender
 [Die Termine können auch abonniert](https://storage.rotex1800.de/remote.php/dav/public-calendars/St4BEmjY2CqQaqHt?export) werden um sie im Kalender auf dem
 Smartphone oder Computer zu nutzen.
 
-## Bewerberwochenende
-18\. bis 20. Februar 2022 in Magdeburg
-
-## Rotex 1800 Academy Teil 1
-19\. und 13. März 2022
-
 ## Rotex 1800 Academy Teil 2
 14\. und 15. Mai 2022
 
