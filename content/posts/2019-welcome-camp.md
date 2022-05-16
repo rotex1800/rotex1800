@@ -1,6 +1,7 @@
 ---
 date: 2019-10-01
 title: Welcome Camp!
+image: /img/2019-welcome-camp.jpg
 ---
 
 Über die deutsche Sprache, Politik, Geschichte, Kultur, Europa und warum es den 

@@ -1,7 +1,9 @@
 ---
-date: 2021-03-12
+date: 2022-03-12
 title: "Rotex Academy: Rotex für Anfänger"
-
+categories:
+    - Wochenende
+image: /img/2022-ra-teilnehmerinnen.png
 ---
 
 Eine der größten Herausforderungen für eine Rotex-Vereinigungen in dieser Zeit ohne AustauschschülerInnen ist das Erhalten von Wissen. Wissen, das sich Mitglieder schon seit der Vereinsgründung vom Rotex 1800 e.V. im Jahr 1989 angeeignet haben: Über Wochenendorganisationen, den besten Umgang mit den Inbounds, interne Abläufe und so weiter. Damit dieses Wissen nicht verloren geht, haben wir die **Rotex Academy** ins Leben gerufen: Eine Workshop-Reihe, die zur Wissensweitergabe von erfahrenen RotexerInnen an die jüngeren Mitglieder unseres Vereins dient.
