@@ -6,9 +6,6 @@ title: Kalender
 [Die Termine können auch abonniert](https://storage.rotex1800.de/remote.php/dav/public-calendars/St4BEmjY2CqQaqHt?export) werden um sie im Kalender auf dem
 Smartphone oder Computer zu nutzen.
 
-## Rotex 1800 Academy Teil 2
-14\. und 15. Mai 2022
-
 ## Rotary International Convetion
 3\. bis 08. Juni 2022 in Houston
 
