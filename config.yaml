@@ -9,6 +9,7 @@ params:
   addFrame: true
   logo:
     standard: /img/logo.png
+    mobile: /img/logo.png
 
 taxonomies:
   category: categories
