@@ -36,3 +36,9 @@ Mehr Informationen bei [Rotex Deutschland](https://deutschland.rotex.org/2022/03
 
 ## Bewerberwochenende
 09\. bis 11. Dezember 2022 in Magdeburg
+
+## Interne Arbeitstage
+27\. bis 29. Dezember 2022
+
+## Deutschland Tour
+23\. März bis 06. April 2023
