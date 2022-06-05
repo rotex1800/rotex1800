@@ -19,8 +19,8 @@ Mehr Informationen bei [Rotex Deutschland](https://deutschland.rotex.org/2022/03
 ## Rotex 1800 Academy Teil 3
 16\. und 17. Juli
 
-## Rotex International Convention
-04\. bis 08. August 2022 in Curitiba
+## ~~Rotex International Convention~~ Abgesagt
+~~04\. bis 08. August 2022 in Curitiba~~
 
 ## Jahreshauptversammlung
 26\. bis 28. August 2022 in Gut Nienfeld
