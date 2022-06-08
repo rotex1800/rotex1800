@@ -25,8 +25,11 @@ Mehr Informationen bei [Rotex Deutschland](https://deutschland.rotex.org/2022/03
 ## Jahreshauptversammlung
 26\. bis 28. August 2022 in Gut Nienfeld
 
+## Erste Orientation
+28\. August in Pohle
+
 ## Welcome Wochenende
-16\. bis 18. September 2022
+16\. bis 18. September 2022 
 
 ## Welcome Camp
 17\. bis 22. Oktober 2022
@@ -40,5 +43,17 @@ Mehr Informationen bei [Rotex Deutschland](https://deutschland.rotex.org/2022/03
 ## Interne Arbeitstage
 27\. bis 29. Dezember 2022
 
+## Faschingswochenende
+Februar 2023
+
 ## Deutschland Tour
 23\. März bis 06. April 2023
+
+## Tour Revival Wochenende
+Ende April / Anfang Mai 2023
+
+## Goodbye Wochenende
+02\. bis 04. Juni 2023 in Havelberg
+
+## Distriktkonferenz
+12\. und 13. Juni 2023
