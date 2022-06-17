@@ -6,10 +6,6 @@ title: Kalender
 [Die Termine können auch abonniert](https://storage.rotex1800.de/remote.php/dav/public-calendars/St4BEmjY2CqQaqHt?export) werden um sie im Kalender auf dem
 Smartphone oder Computer zu nutzen.
 
-## Rotex DAChKo
-16\. bis 19. Juni bei Salzburg
-Mehr Informationen bei [Rotex Deutschland](https://deutschland.rotex.org/2022/03/20/rotex-dachko-2022/)
-
 ## Outboundschulung
 08\. bis 10. Juli in Wolfsburg
 
