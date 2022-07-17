@@ -6,15 +6,6 @@ title: Kalender
 [Die Termine können auch abonniert](https://storage.rotex1800.de/remote.php/dav/public-calendars/St4BEmjY2CqQaqHt?export) werden um sie im Kalender auf dem
 Smartphone oder Computer zu nutzen.
 
-## Outboundschulung
-08\. bis 10. Juli in Wolfsburg
-
-## Rotex 1800 Academy Teil 3
-16\. und 17. Juli
-
-## ~~Rotex International Convention~~ Abgesagt
-~~04\. bis 08. August 2022 in Curitiba~~
-
 ## Jahreshauptversammlung
 26\. bis 28. August 2022 in Gut Nienfeld
 
