@@ -6,12 +6,6 @@ title: Kalender
 [Die Termine können auch abonniert](https://storage.rotex1800.de/remote.php/dav/public-calendars/St4BEmjY2CqQaqHt?export) werden um sie im Kalender auf dem
 Smartphone oder Computer zu nutzen.
 
-## Jahreshauptversammlung
-26\. bis 28. August 2022 in Gut Nienfeld
-
-## Erste Orientation
-28\. August in Pohle
-
 ## Welcome Wochenende
 16\. bis 18. September 2022 
 
