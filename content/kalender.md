@@ -6,9 +6,6 @@ title: Kalender
 [Die Termine können auch abonniert](https://storage.rotex1800.de/remote.php/dav/public-calendars/St4BEmjY2CqQaqHt?export) werden um sie im Kalender auf dem
 Smartphone oder Computer zu nutzen.
 
-## Welcome Wochenende
-16\. bis 18. September 2022
-
 ## Welcome Camp
 17\. bis 22. Oktober 2022 in Halle an der Saale
 
