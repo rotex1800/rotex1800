@@ -14,7 +14,7 @@ ich bin Freddy, war 2017-2018 mit Rotary in Japan und wurde bei unserer letzten 
 
 Als Präsident habe ich mir vor allem vorgenommen, den Verein und seine Mitglieder wieder auf den eigentlichen Zweck des Rotex 1800 e.V. einzustimmen: Die Arbeit mit unseren Inbounds. Dazu gehört für mich vor allem die Reaktivierung von älteren Rotexer:innen und die Wissensweitergabe an unsere Jüngeren, was z.B. die Organisation von Wochenenden angeht. Darüber hinaus freue ich mich auf eine engere Zusammenarbeit mit Rotex Deutschland und natürlich dem Rotary- Distrikt 1800!
 
-# Vizepräsident Benedict Augustin
+## Vizepräsident Benedict Augustin
 Moin,
 
 ich bin Bene und studiere Deutsch-Lateinamerikanische Betriebswirtschaft in Münster. 2018-2019 verbrachte ich meinen Austausch in Brasilien. Nach meiner Rückkehr nach Deutschland bin ich sofort Rotex 1800 e.V. beigetreten. Die Arbeit im Verein und alle dazugehörenden Aufgaben haben mir so viel Spaß gemacht, dass ich kein Wochenende verpasst habe.
