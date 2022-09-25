@@ -7,13 +7,13 @@ title: Kalender
 Smartphone oder Computer zu nutzen.
 
 ## Welcome Wochenende
-16\. bis 18. September 2022 
+16\. bis 18. September 2022
 
 ## Welcome Camp
-17\. bis 22. Oktober 2022
+17\. bis 22. Oktober 2022 in Halle an der Saale
 
 ## Weihnachtswochenende
-25\. bis 27. November 2022
+25\. bis 27. November 2022 in Wolfenbüttel
 
 ## Bewerberwochenende
 09\. bis 11. Dezember 2022 in Magdeburg
