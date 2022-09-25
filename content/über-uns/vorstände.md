@@ -8,6 +8,9 @@ date: 2022-01-14
 # Der Vorstand stellt sich vor
 
 ## Präsident Frederik Pinkau
+
+{{< figure src="/img/vorstand/Freddy.jpeg" width="200px" class="float-left mr-4 mb-2" >}}
+
 Hi!
 
 ich bin Freddy, war 2017-2018 mit Rotary in Japan und wurde bei unserer letzten JHV zum Präsidenten des Rotex 1800 e.V. gewählt. Seit meiner Rückkehr nach Deutschland konnte ich bereits einige Vorstandspositionen kennenlernen: In zwei vorherigen Vorständen führte ich das Amt des Schatzmeisters und des Schriftführers durch.
@@ -15,6 +18,9 @@ ich bin Freddy, war 2017-2018 mit Rotary in Japan und wurde bei unserer letzten 
 Als Präsident habe ich mir vor allem vorgenommen, den Verein und seine Mitglieder wieder auf den eigentlichen Zweck des Rotex 1800 e.V. einzustimmen: Die Arbeit mit unseren Inbounds. Dazu gehört für mich vor allem die Reaktivierung von älteren Rotexer:innen und die Wissensweitergabe an unsere Jüngeren, was z.B. die Organisation von Wochenenden angeht. Darüber hinaus freue ich mich auf eine engere Zusammenarbeit mit Rotex Deutschland und natürlich dem Rotary- Distrikt 1800!
 
 ## Vizepräsident Benedict Augustin
+
+{{< figure src="/img/vorstand/Benedict.jpeg" width="200px" class="float-left mr-4 mb-2" >}}
+
 Moin,
 
 ich bin Bene und studiere Deutsch-Lateinamerikanische Betriebswirtschaft in Münster. 2018-2019 verbrachte ich meinen Austausch in Brasilien. Nach meiner Rückkehr nach Deutschland bin ich sofort Rotex 1800 e.V. beigetreten. Die Arbeit im Verein und alle dazugehörenden Aufgaben haben mir so viel Spaß gemacht, dass ich kein Wochenende verpasst habe.
@@ -22,6 +28,9 @@ ich bin Bene und studiere Deutsch-Lateinamerikanische Betriebswirtschaft in Mün
 Nun darf ich meine zweite Amtszeit als Vize-Präsident übernehmen, worauf ich mich auch schon sehr freue. Vor uns als Verein stehen nach 2 Jahren ohne Inbounds viele Aufgaben. In dieser Zeit haben wir uns verändert, einige Mitglieder sind nicht mehr so aktiv, andere sind jetzt besonders motiviert, wieder loszulegen und wollen ihre Ideen umsetzten. Endlich können wir als Verein wieder zeigen, was wir können. Ich freue mich darauf, mit Euch gemeinsam in den nächsten Jahren denn Verein zu gestallten.
 
 ## Schatzmeister Ben Müller
+
+{{< figure src="/img/vorstand/Ben.jpeg" width="200px" class="float-left mr-4 mb-2" >}}
+
 Hallo liebe Mitglieder,
 
 ich bin Ben, 19 Jahre alt und war von 2019 bis 2020 in Südafrika. Mein Auslandsjahr habe ich in Johannesburg verbracht. Ich habe mich nach meiner Erfahrung im Ausland bei Rotex angemeldet, da ich gesehen habe, dass es einen großen Mehrwert hat und viel Spaß macht, wenn Ex-Austauschschüler:innen In- und Outbounds betreuen. Auf der Jahreshauptversammlung 2022 wurde ich nun in den Vorstand gewählt und bin der neue Schatzmeister von Rotex 1800. Ich bedanke mich für das Vertrauen, auch freue ich mich auf die neuen Aufgaben und die Arbeit mit allen Mitgliedern. Auf eine schöne Zeit, die wir endlich wieder mit Austauschschülern:innen verbringen können!
@@ -30,6 +39,9 @@ Liebe Grüße,
 Ben
 
 ## Schriftführerin Mara Fischer
+
+{{< figure src="/img/vorstand/Mara.jpeg" width="200px" class="float-left mr-4 mb-2" >}}
+
 Hallo,
 
 mein Name ist Mara und ich bin 19 Jahre alt. 2019/2020 verbrachte ich mein Auslandsjahr in Chile, in der Stadt Talca. Schon vor meinem Auslandsjahr stand fest, dass ich gerne Rotex beitreten möchte. Es ist super wichtig den Outbounds und den Inbounds zur Seite zu stehen und sie auf diesem aufregenden Weg zu unterstützen. Deshalb trat ich im Sommer 2020 dem Verein bei. Um noch mehr in den Verein einzutauchen habe ich mich 2022 bei der JHV entschieden mich zur neuen Schriftführerin wählen zu lassen. Ich bin noch sehr neu bei Rotex 1800 e.V. und hatte bisher noch keine Wochenenderlebnisse mit Inbounds. Nichtsdestotrotz bin ich super motiviert mit anzupacken und sowohl die neuen Outbounds vorzubereiten, als auch die neuen Inbounds in ihrem Jahr zu unterstützen und ihnen eine tolle Zeit zu ermöglichen.
@@ -37,11 +49,16 @@ mein Name ist Mara und ich bin 19 Jahre alt. 2019/2020 verbrachte ich mein Ausla
 
 ## Fünftes Vorstandsmitglied Christina Brinkmeier
 
+{{< figure src="/img/vorstand/Christina.jpeg" width="200px" class="float-left mr-4" >}}
+
 Hey ich bin Christina,
 
 studiere in Erfurt Psychologie und war 2014/15 in Brasilien im Austausch. Ich bin das neue 5. Vorstandsmitglied von Rotex 1800.
-Seit 2015 bin ich bei Rotex aktiv und obwohl ich noch kein Vorstandsamt inne hatte, freue ich mich, mehr als sieben Jahre Rotex Erfahrung in mein neues Amt einbringen zu können. Endlich fängt das neue Austauschjahr an, denn es ist höchste Zeit, dass wir als Verein wieder tun, was wir am besten können. Vielen Dank für Euer Vertrauen. Auf zwei produktive, aufregende und ereignisreiche Jahre.
+Seit 2015 bin ich bei Rotex aktiv und obwohl ich noch kein Vorstandsamt inne hatte, freue ich mich, mehr als sieben Jahre Rotex Erfahrung in mein neues Amt einbringen zu können.
 
+Endlich fängt das neue Austauschjahr an, denn es ist höchste Zeit, dass wir als Verein wieder tun, was wir am besten können. Vielen Dank für Euer Vertrauen. Auf zwei produktive, aufregende und ereignisreiche Jahre.
+
+ 
 
 # Aktuelle und vergangene Vorstände
 
