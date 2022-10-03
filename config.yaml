@@ -32,6 +32,9 @@ menus:
     - name: Impressum
       url: /impressum
       weight: 2
+    - name: Datenschutz
+      url: /datenschutz
+      weight: 3
   main:
     - name: Posts
       url: /posts
