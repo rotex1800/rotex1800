@@ -9,3 +9,5 @@ title: Downloads
 ## Deutschland Tour
 
 [Applicant & Parent-Permission Form](/files/appf-deutschland-tour.pdf)
+
+[Info Flyer 2023](/files/flyer-deutschland-tour-2023.pdf)
