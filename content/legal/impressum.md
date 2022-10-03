@@ -13,12 +13,11 @@ Breese in der Marsch 25
 
 29451 Dannenberg (Elbe)
 ## Vertreten durch:
-* Lynn Kuhlwein
-* Benedict Augustin
 * Frederik Pinkau
-* Freya Schütze
-* Paul Schuberth
-
+* Benedict Augustin
+* Mara Fischer
+* Ben Müller
+* Christina Brinkmeier
 
 ## Kontakt:
 vorstand@rotex1800.de
