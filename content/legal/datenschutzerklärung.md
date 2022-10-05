@@ -17,8 +17,12 @@ Telefon: +49 15120 4213262 E-Mail: webmaster@rotex1800.de
 
 
 ## Vertreten durch
-Lynn Kuhlwein (Präsidentin) Benedict Augustin (Vizepräsident) Frederik Pinkau (Schriftführer) Freya Schütze
-(Schatzmeisterin) Paul Schuberth (Beisitzer)
+* Frederik Pinkau
+* Benedict Augustin
+* Mara Fischer
+* Ben Müller
+* Christina Brinkmeier
+
 
 Jedes Vorstandsmitglied ist alleinvertretungsberechtigt (gilt nicht für den Beisitzer)
 
@@ -97,7 +101,7 @@ Löschung ausgenommen.
 Wir verwenden mit unserem Internetauftritt sog. Cookies. Cookies sind kleine Textdateien oder andere
 Speichertechnologien, die durch den von Ihnen eingesetzten Internet-Browser auf Ihrem Endgerät ablegt und gespeichert
 werden. Durch diese Cookies werden im individuellen Umfang bestimmte Informationen von Ihnen, wie beispielsweise Ihre
-Browser- oder Standortdaten oder Ihre IP-Adresse, verarbeitet.  
+Browser- oder Standortdaten oder Ihre IP-Adresse, verarbeitet.
 
 Durch diese Verarbeitung wird unser Internetauftritt benutzerfreundlicher, effektiver und sicherer, da die Verarbeitung
 bspw. die Wiedergabe unseres Internetauftritts in unterschiedlichen Sprachen oder das Angebot einer Warenkorbfunktion
