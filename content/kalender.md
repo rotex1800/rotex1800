@@ -32,3 +32,6 @@ Ende April / Anfang Mai 2023
 
 ## Distriktkonferenz
 12\. und 13. Juni 2023
+
+## Welcome Wochenende
+08\. bis 10. September 2023
