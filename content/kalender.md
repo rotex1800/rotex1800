@@ -22,7 +22,7 @@ Smartphone oder Computer zu nutzen.
 20\. bis 22. Januar 2023 in Wernigerode
 
 ## Faschingswochenende
-Februar 2023
+24\. bis 26. Februar 2023 in Hundisburg
 
 ## Deutschland Tour
 23\. März bis 06. April 2023
