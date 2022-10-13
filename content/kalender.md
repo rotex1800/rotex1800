@@ -18,6 +18,9 @@ Smartphone oder Computer zu nutzen.
 ## Interne Arbeitstage
 27\. bis 29. Dezember 2022
 
+## Winterwochenende
+20\. bis 22. Januar 2023 in Wernigerode
+
 ## Faschingswochenende
 Februar 2023
 
@@ -31,7 +34,7 @@ Ende April / Anfang Mai 2023
 02\. bis 04. Juni 2023 in Havelberg
 
 ## Distriktkonferenz
-12\. und 13. Juni 2023
+17\. Juni 2023
 
 ## Welcome Wochenende
 08\. bis 10. September 2023
