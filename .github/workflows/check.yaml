@@ -1,0 +1,46 @@
+---
+name: Check
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  test-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+      - run: npm install
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Run Hugo Server
+        run: |
+          hugo server &
+
+      - name: Crawl Website
+        run: wget --spider --recursive --no-directories --no-verbose --output-file linktest.log  http://localhost:1313 || true
+
+      - name: Inspect Wget log
+        run: grep -B1 'broken link!' linktest.log > testresult.log || true
+
+      - name: Display results
+        run: |
+          if [[ -s testresult.log ]]; then
+            cat testresult.log
+            exit 1
+          else
+            echo "All links work!"
+            exit 0
+          fi
+
