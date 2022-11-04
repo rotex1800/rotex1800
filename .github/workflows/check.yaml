@@ -40,7 +40,7 @@ jobs:
           hugo server &
 
       - name: Check Links
-        uses: paulschuberth/check-links-action@main
+        uses: paulschuberth/check-links-action@v1
         with:
           start-url: 'http://localhost:1313'
 
