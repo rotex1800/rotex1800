@@ -39,19 +39,8 @@ jobs:
         run: |
           hugo server &
 
-      - name: Crawl Website
-        run: wget --spider --recursive --no-directories --no-verbose --output-file linktest.log  http://localhost:1313 || true
-
-      - name: Inspect Wget log
-        run: grep -B1 'broken link!' linktest.log > testresult.log || true
-
-      - name: Display results
-        run: |
-          if [[ -s testresult.log ]]; then
-            cat testresult.log
-            exit 1
-          else
-            echo "All links work!"
-            exit 0
-          fi
+      - name: Check Links
+        uses: paulschuberth/check-links-action@main
+        with:
+          start-url: 'http://localhost:1313'
 
