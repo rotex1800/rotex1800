@@ -1,6 +1,6 @@
 ---
 date: 2022-09-16
-title: "Welcome Camp bei Soltau"
+title: "Welcome-Wochenende bei Soltau"
 categories:
     - Wochenende
 image: /img/2022-suedseecamp.jpg
