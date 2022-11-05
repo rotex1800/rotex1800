@@ -1,6 +1,8 @@
 ---
 title: Rotex 1800 e.V.
 ---
-Hallo! Wir sind Rotex 1800, ein Zusammenschluss ehemaliger Teilnehmer:innen des rotarischen Jugendaustausches.
+Hallo! Wir sind der Rotex 1800 e.V., ein Zusammenschluss ehemaliger
+Teilnehmer:innen des Rotary-Youth-Exchange-Programs.
 
-Wenn Sie mehr erfahren möchten sehen sie sich doch gerne um.
+Erfahren Sie mehr über die Aufgaben des Vereins, unsere Aktivitäten und, was
+unseren Verein so besonders macht.
