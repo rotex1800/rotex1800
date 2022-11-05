@@ -5,7 +5,7 @@ name: Maintenance Checks
 on:
   schedule:
     - cron: 0 18 * * *
-  workflow_call:
+  workflow_dispatch:
 
 
 jobs:
@@ -34,19 +34,4 @@ jobs:
       - name: Test for public javascript library vulnerabilities
         uses: lirantal/is-website-vulnerable@main
         with:
-          scan-url: "http://localhost:1313"
-
-  npm-audit:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-        with:
-          submodules: true
-      - name: install dependencies
-        run: npm ci
-      - uses: oke-py/npm-audit-action@v2
-        with:
-          audit_level: moderate
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          issue_labels: vulnerability,test
-          dedupe_issues: true
+          scan-url: "https://rotex1800.de"
