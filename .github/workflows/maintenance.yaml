@@ -1,0 +1,52 @@
+---
+name: Maintenance Checks
+
+
+on:
+  schedule:
+    - cron: 0 18 * * *
+  workflow_call:
+
+
+jobs:
+  security-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+      - run: npm install
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Run Hugo Server
+        run: |
+          hugo server &
+
+      - name: Test for public javascript library vulnerabilities
+        uses: lirantal/is-website-vulnerable@main
+        with:
+          scan-url: "http://localhost:1313"
+
+  npm-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+      - name: install dependencies
+        run: npm ci
+      - uses: oke-py/npm-audit-action@v2
+        with:
+          audit_level: moderate
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          issue_labels: vulnerability,test
+          dedupe_issues: true
