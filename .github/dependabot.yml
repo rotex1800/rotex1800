@@ -3,10 +3,12 @@ updates:
   # Maintain dependencies for GitHub Actions
   - package-ecosystem: "github-actions"
     directory: "/"
+    assignee: "paulschuberth"
     schedule:
       interval: "daily"
 
   - package-ecosystem: "npm"
     directory: "/"
+    assignee: "paulschuberth"
     schedule:
       interval: "daily"
