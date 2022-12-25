@@ -1,10 +1,9 @@
-——-
+—-
 date: 2022-12-20
-title: “Bewerber Wochenende 2022”
+title: Bewerberwochenende 2022
 categories:
-    - Wochenende
-image: /img/2022-bewerber.jpg
-——-
+    - wochenende
+—-
 
 Advent, Advent, die dritte Kerze brennt… Bei Rotex 1800 e.V. scheint der Weihnachtsmann seinen Kalender nicht im Griff zu haben - denn schon am dritten Adventswochenende bescherte er uns ein wunderbares Bewerber:innenwochenende in Magdeburg.
 
