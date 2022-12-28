@@ -16,7 +16,7 @@ Smartphone oder Computer zu nutzen.
 24\. bis 26. Februar 2023 in Hundisburg
 
 ## Deutschland Tour
-23\. März bis 06. April 2023
+22\. März bis 05. April 2023
 
 ## Tour Revival Wochenende
 Ende April / Anfang Mai 2023
@@ -27,5 +27,36 @@ Ende April / Anfang Mai 2023
 ## Distriktkonferenz
 17\. Juni 2023
 
+## Outboundschulung
+30\. Juni bis 02. Juli 2023 in Wolfsburg
+
+## Reboundabend
+18\. August 2023 auf Gut Nienfeld
+
+## Jahreshauptversammlung
+19\. August 2023 auf Gut Nienfeld
+
+## Gasteltern Information Teil
+20\. August 2023 auf Gut Nienfeld
+
 ## Welcome Wochenende
 08\. bis 10. September 2023
+
+## Rotex DAChKo
+21\. bis 24. September in Dresden
+Ganz viel Liebe zu unseren Rotex-Freunden in 1880 💙
+
+## Welcome Camp
+25\. bis 30. September 2023 in Magdeburg
+
+## Länder Information
+12\. November 2023 in Hannover
+
+## Bewerbungs-Wochenende
+24\. bis 26. November 2023 in Magdeburg
+
+## Weihnachts-Wochenende
+15\. bis 17. Dezember 2023
+
+## Interne Arbeitstage
+27\. bis 29. Dezember 2023
