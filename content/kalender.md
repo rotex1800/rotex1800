@@ -19,7 +19,7 @@ Smartphone oder Computer zu nutzen.
 22\. März bis 05. April 2023
 
 ## Tour Revival Wochenende
-Ende April / Anfang Mai 2023
+05\. bis 07. April 2023 in Lüneburg
 
 ## Goodbye Wochenende
 02\. bis 04. Juni 2023 in Havelberg
