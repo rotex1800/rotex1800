@@ -2,6 +2,7 @@
 title: Wochenenden
 categories:
     - rotex1800
+weight: 3
 ---
 Die Wochenenden sind der elementare Bestandteil rotarischen Jugendaustausches im Distrikt 1800. Mindestens vier mal im Laufe ihres Austauschjahres treffen sich die
 Austauschschüler:innen in verschiedenen Orten im Distrikt, um Deutschland näher kennenzulernen, neue Freundschaften zu schließen und gemeinsam eine wunderbare Zeit zu haben.

@@ -2,6 +2,9 @@
 title: Allgemein
 categories:
     - rotex1800
+aliases:
+    - /über-uns/über-uns/
+weight: 1
 ---
 ROTEX steht für ROTary EXchange und ist eine zunehmend weltweit existierende
 Organisation ehemaliger Rotary Austauschschüler:innen. Die Zahl 1800 steht für
