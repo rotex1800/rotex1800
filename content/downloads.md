@@ -6,6 +6,8 @@ title: Downloads
 ## Für Mitglieder
 [Antrag auf Reisekostenerstattung](/files/reisekosten-vorlage.pdf)
 
+[Beitrittsformular](/files/beitritts-formular.pdf)
+
 ## Deutschland Tour
 
 [Applicant & Parent-Permission Form](/files/appf-deutschland-tour.pdf)
