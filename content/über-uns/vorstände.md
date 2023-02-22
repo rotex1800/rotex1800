@@ -1,11 +1,9 @@
 ---
-title: Vorstände
+title: Der Vorstand stellt sich vor
 categories:
     - rotex1800
 date: 2022-01-14
 ---
-
-# Der Vorstand stellt sich vor
 
 Der Vorstand des Rotex 1800 e.V. besteht aus fünf Mitgliedern und wird für zwei Jahre gewählt. Die Vorstandsmitglieder repräsentieren den Verein nach außen und dienen als Ansprechpartner:innen für Mitglieder des Vereins, Rotary und Andere.
 

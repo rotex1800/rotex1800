@@ -36,7 +36,7 @@ Smartphone oder Computer zu nutzen.
 ## Jahreshauptversammlung
 19\. August 2023 auf Gut Nienfeld
 
-## Gasteltern Information Teil
+## Gasteltern Information Teil 2
 20\. August 2023 auf Gut Nienfeld
 
 ## Welcome Wochenende
