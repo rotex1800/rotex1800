@@ -11,4 +11,6 @@ Die Organisation der Wochenenden sowie die Betreuung der Austauschschüler.innen
 
 Wochenenden haben einen ganz bestimmten Ablauf: Nach Ankunft aller Teilnehmenden am Freitag gibt es nach dem Abendessen eine kleine Kostümparty. Am darauffolgenden Samstag stehen dann Aktivitäten wie der Besuch einer Eissporthalle, eine Stadtrallye oder eine Wanderung auf dem Programm. Währenddessen stehen die Rotexer :innen den Austauschschüler:innen mit Tipps und Tricks für den Austausch zur Seite. Nach dem Frühstück am Sonntag geht es für die Austauschschüler:innen dann wieder zurück zu ihren Gastfamilien.
 
-Natürlich sind diese Wochenenden auch mit Kosten für den Rotex 1800 e.V. verbunden. Dank der großzügigen finanziellen und personellen Unterstützung durch Rotary Clubs im Distrikt 1800 können wir dennoch solch tolle Veranstaltungen auf die Beine stellen.
+Natürlich sind diese Wochenenden auch mit Kosten für den Rotex 1800 e.V. verbunden. Dank der großzügigen finanziellen und personellen Unterstützung durch Rotary Clubs im Distrikt 1800 können wir dennoch solch tolle Veranstaltungen auf die Beine stellen.q
+
+{{<  youtube yv8YAEmCkWQ >}}
