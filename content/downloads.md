@@ -4,7 +4,7 @@ title: Downloads
 ---
 
 ## Externe
-[Allgemeine Information](/files/rotex-flyer-allgemein.pdf)
+[Rotex Flyer](/files/rotex-flyer-allgemein.pdf)
 
 ## Für Mitglieder
 [Antrag auf Reisekostenerstattung](/files/reisekosten-vorlage.pdf)
