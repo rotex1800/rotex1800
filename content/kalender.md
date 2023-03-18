@@ -6,15 +6,6 @@ title: Kalender
 [Die Termine können auch abonniert](https://storage.rotex1800.de/remote.php/dav/public-calendars/St4BEmjY2CqQaqHt?export) werden um sie im Kalender auf dem
 Smartphone oder Computer zu nutzen.
 
-## Interne Arbeitstage
-27\. bis 29. Dezember 2022
-
-## Winterwochenende
-20\. bis 22. Januar 2023 in Wernigerode
-
-## Faschingswochenende
-17\. bis 19. Februar 2023 in Hundisburg
-
 ## Deutschland Tour
 22\. März bis 05. April 2023
 
