@@ -6,9 +6,6 @@ title: Kalender
 [Die Termine können auch abonniert](https://storage.rotex1800.de/remote.php/dav/public-calendars/St4BEmjY2CqQaqHt?export) werden um sie im Kalender auf dem
 Smartphone oder Computer zu nutzen.
 
-## Deutschland Tour
-22\. März bis 05. April 2023
-
 ## Tour Revival Wochenende
 05\. bis 07. Mai 2023 in Lüneburg
 
