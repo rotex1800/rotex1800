@@ -32,7 +32,7 @@ Smartphone oder Computer zu nutzen.
 
 ## [Rotex DAChKo](https://mailchi.mp/b115dc8c2557/newsletter-vom-5230557#2023)
 21\. bis 24. September in Dresden
-Ganz viel Liebe zu unseren Rotex-Freunden in 1880 💙
+Ganz viel Liebe zu unseren Rotex-Freund:innen in 1880 💙
 
 ## Welcome Camp
 25\. bis 30. September 2023 in Magdeburg
