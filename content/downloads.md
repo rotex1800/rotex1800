@@ -11,10 +11,3 @@ title: Downloads
 
 [Beitrittsformular](/files/beitritts-formular.pdf)
 
-## Deutschland Tour
-
-[Applicant & Parent-Permission Form](/files/appf-deutschland-tour.pdf)
-
-[Info Flyer 2023](/files/flyer-deutschland-tour-2023.pdf)
-
-[Regeln auf der Tour](/files/tour-regeln.pdf)
