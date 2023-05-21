@@ -1,7 +1,6 @@
 ---
 title: "Tour Revival Wochenende in Lüneburg 2023"
 date: 2023-05-07T09:36:54+02:00
-draft: true
 ---
 Das erste Mai-Wochenende verbrachten die In- und Outbounds gemeinsam in Lüneburg, um die Erlebnisse der Deutschland Tour
 Revue passieren zu lassen. Die Wiedersehensfreude war groß!
