@@ -27,7 +27,7 @@ Smartphone oder Computer zu nutzen.
 ## Welcome Wochenende
 08\. bis 10. September 2023
 
-## [Rotex DAChKo](https://mailchi.mp/b115dc8c2557/newsletter-vom-5230557#2023)
+## [Rotex DAChKo](https://dachko.rotex.org)
 21\. bis 24. September in Dresden
 Ganz viel Liebe zu unseren Rotex-Freund:innen in 1880 💙
 
