@@ -1,7 +1,6 @@
 ---
 date: 2023-06-15T20:00:00+00:00
 title: Goodbye Wochenende Havelberg 2023
-draft: true
 ---
 Unser Goodbye-Wochenende vom 2. bis 6. Juni in Havelberg war ein voller Erfolg. Zusammen mit unseren nun ehemaligen Inbounds (🥲) und aktuellen Outbounds (🥳) konnten wir ein wunderbares Wochenende verbringen, das wir dem Rotary Club Havelberg zu verdanken haben. Dank eurer großartigen Unterstützung konnten wir viele unvergessliche Erfahrungen sammeln.
 
