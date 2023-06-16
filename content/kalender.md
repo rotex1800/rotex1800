@@ -6,9 +6,6 @@ title: Kalender
 [Die Termine können auch abonniert](https://storage.rotex1800.de/remote.php/dav/public-calendars/St4BEmjY2CqQaqHt?export) werden um sie im Kalender auf dem
 Smartphone oder Computer zu nutzen.
 
-## Goodbye Wochenende
-02\. bis 04. Juni 2023 in Havelberg
-
 ## Distriktkonferenz
 17\. Juni 2023
 
