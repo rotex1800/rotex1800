@@ -42,3 +42,6 @@ Ganz viel Liebe zu unseren Rotex-Freund:innen in 1880 💙
 
 ## Interne Arbeitstage
 27\. bis 29. Dezember 2023
+
+## Goodbye Wochenende in Havelberg
+31\. Mai bis 02. Juni 2023
