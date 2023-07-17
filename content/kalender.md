@@ -6,12 +6,6 @@ title: Kalender
 [Die Termine können auch abonniert](https://storage.rotex1800.de/remote.php/dav/public-calendars/St4BEmjY2CqQaqHt?export) werden um sie im Kalender auf dem
 Smartphone oder Computer zu nutzen.
 
-## Distriktkonferenz
-17\. Juni 2023
-
-## Outboundschulung
-30\. Juni bis 02. Juli 2023 in Wolfsburg
-
 ## Reboundabend
 18\. August 2023 auf Gut Nienfeld
 
@@ -44,4 +38,4 @@ Ganz viel Liebe zu unseren Rotex-Freund:innen in 1880 💙
 27\. bis 29. Dezember 2023
 
 ## Goodbye Wochenende in Havelberg
-31\. Mai bis 02. Juni 2023
+31\. Mai bis 02. Juni 2024
