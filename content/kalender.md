@@ -7,13 +7,13 @@ title: Kalender
 Smartphone oder Computer zu nutzen.
 
 ## Reboundabend
-18\. August 2023 auf Gut Nienfeld
+18\. August 2023 bei Celle
 
 ## Jahreshauptversammlung
-19\. August 2023 auf Gut Nienfeld
+19\. August 2023 bei Celle
 
 ## Gasteltern Information Teil 2
-20\. August 2023 auf Gut Nienfeld
+20\. August 2023 bei Celle
 
 ## Welcome Wochenende
 08\. bis 10. September 2023
