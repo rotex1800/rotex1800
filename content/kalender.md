@@ -6,27 +6,6 @@ title: Kalender
 [Die Termine können auch abonniert](https://storage.rotex1800.de/remote.php/dav/public-calendars/St4BEmjY2CqQaqHt?export) werden um sie im Kalender auf dem
 Smartphone oder Computer zu nutzen.
 
-## Goodbye Wochenende
-02\. bis 04. Juni 2023 in Havelberg
-
-## Distriktkonferenz
-17\. Juni 2023
-
-## Outboundschulung
-30\. Juni bis 02. Juli 2023 in Wolfsburg
-
-## Reboundabend
-18\. August 2023 auf Gut Nienfeld
-
-## Jahreshauptversammlung
-19\. August 2023 auf Gut Nienfeld
-
-## Gasteltern Information Teil 2
-20\. August 2023 auf Gut Nienfeld
-
-## Welcome Wochenende
-08\. bis 10. September 2023
-
 ## [Rotex DAChKo](https://dachko.rotex.org)
 21\. bis 24. September in Dresden
 Ganz viel Liebe zu unseren Rotex-Freund:innen in 1880 💙
@@ -45,3 +24,6 @@ Ganz viel Liebe zu unseren Rotex-Freund:innen in 1880 💙
 
 ## Interne Arbeitstage
 27\. bis 29. Dezember 2023
+
+## Welcome Wochenende
+13\. bis 15. September 2024
