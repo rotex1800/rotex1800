@@ -25,21 +25,19 @@ Rotex 1800 e.V. einzustimmen: Die Arbeit mit unseren Inbounds. Dazu gehört für
 Darüber hinaus freue ich mich auf eine engere Zusammenarbeit mit Rotex Deutschland und natürlich dem Rotary- Distrikt
 1800!
 
-## Vizepräsident Benedict Augustin
+## Vizepräsidentin Jette Hagelberg
 
-{{< figure src="/img/vorstand/Benedict.jpeg" width="200px" class="float-left mr-4 mb-2" >}}
+{{< figure src="/img/vorstand/Jette.jpeg" width="200px" class="float-left mr-4 mb-2" >}}
 
-Moin,
+Hi,
 
-ich bin Bene und studiere Deutsch-Lateinamerikanische Betriebswirtschaft in Münster. 2018-2019 verbrachte ich meinen
-Austausch in Brasilien. Nach meiner Rückkehr nach Deutschland bin ich sofort Rotex 1800 e.V. beigetreten. Die Arbeit im
-Verein und alle dazugehörenden Aufgaben haben mir so viel Spaß gemacht, dass ich kein Wochenende verpasst habe.
+ich bin Jette, 20 Jahre alt und studiere in Heidelberg Politikwissenschaften.
+2019/2020 verbrachte ich beim Auslandsjahr in den USA im Bundesstaat Oregon.
 
-Nun darf ich meine zweite Amtszeit als Vize-Präsident übernehmen, worauf ich mich auch schon sehr freue. Vor uns als
-Verein stehen nach 2 Jahren ohne Inbounds viele Aufgaben. In dieser Zeit haben wir uns verändert, einige Mitglieder sind
-nicht mehr so aktiv, andere sind jetzt besonders motiviert, wieder loszulegen und wollen ihre Ideen umsetzten. Endlich
-können wir als Verein wieder zeigen, was wir können. Ich freue mich darauf, mit Euch gemeinsam in den nächsten Jahren
-denn Verein zu gestallten.
+Schon davor wusste ich eigentlich, dass ich Rotex1800 e.V. gerne beitreten würde, was ich nach meiner Rückkehr auch direkt getan habe. Und seit der Austausch nun auch wieder richtig stattfindet, habe ich gemerkt, wie viel Spaß es mir macht, die In-, Out- und Rebounds bei ihren Erfahrungen zu begleiten.
+
+Umso mehr freue ich mich, bei der JHV 2023 als neue Vizepräsidentin gewählt worden zu sein!
+Ich bin super motiviert mit dem Vorstand und den anderen, vor allem auch neuen, Rotexern den Verein weiter zu gestalten und den Inbounds und Outbounds zur Seite zu stehen!
 
 ## Schatzmeisterin Jule Eimkemeier
 
