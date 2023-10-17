@@ -7,28 +7,34 @@ title: Kalender
 Smartphone oder Computer zu nutzen.
 
 ## Länder Information
-11\. November 2023 in Hannover
+11\. November 2023 in Braunschweig
 
 ## Bewerbungs-Wochenende
 24\. bis 26. November 2023 in Magdeburg
 
 ## Weihnachts-Wochenende
-15\. bis 17. Dezember 2023
+15\. bis 17. Dezember 2023 in Blankenburg
 
 ## Interne Arbeitstage
 27\. bis 29. Dezember 2023
 
-## Winter-Wochenende in Wernigerode (Rotary)
-19\. bis 21. Januar 2024
+## Winter-Wochenende
+19\. bis 21. Januar 2024 in Wernigerode (Rotary)
 
-## Faschings-Wochenende in Hundisburg
-09\. bis 11. Februar 2024
+## Faschings-Wochenende
+09\. bis 11. Februar 2024 in Hundisburg
 
 ## EuropaTour
 25\. März bis 14. April 2024
 
-## Goodbye Wochenende in Havelberg
-31\. Mai bis 02. Juni 2024
+## EuropaTour Revival Wochenende
+Anfang Mai, Ort tbd
+
+## Goodbye Wochenende
+31\. Mai bis 02. Juni 2024 in Havelberg
+
+## Outboundschulung
+Termin tbd in Wolfsburg
 
 ## Welcome Wochenende
 13\. bis 15. September 2024
