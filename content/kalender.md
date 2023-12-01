@@ -6,17 +6,11 @@ title: Kalender
 [Die Termine können auch abonniert](https://storage.rotex1800.de/remote.php/dav/public-calendars/St4BEmjY2CqQaqHt?export) werden um sie im Kalender auf dem
 Smartphone oder Computer zu nutzen.
 
-## Länder Information
-11\. November 2023 in Braunschweig
-
-## Bewerbungs-Wochenende
-24\. bis 26. November 2023 in Magdeburg
-
 ## Weihnachts-Wochenende
 15\. bis 17. Dezember 2023 in Blankenburg
 
 ## Interne Arbeitstage
-27\. bis 29. Dezember 2023
+27\. bis 29. Dezember 2023 in Hambühren (Celle)
 
 ## Winter-Wochenende
 19\. bis 21. Januar 2024 in Wernigerode (Rotary)
@@ -28,13 +22,20 @@ Smartphone oder Computer zu nutzen.
 25\. März bis 14. April 2024
 
 ## EuropaTour Revival Wochenende
-Anfang Mai, Ort tbd
+03\. bis 05. Mai 2024 in Göttingen
+
+## Rotary International Convention + RYE Officers Preconventions
+24\. bis 29. Mai 2024 in Singapur
 
 ## Goodbye Wochenende
 31\. Mai bis 02. Juni 2024 in Havelberg
 
 ## Outboundschulung
-Termin tbd in Wolfsburg
+28\. bis 30. Juni in Wolfsburg
 
-## Welcome Wochenende
+## Heide-Wochenende
 13\. bis 15. September 2024
+
+
+## Welcome Camp
+30\. September bis 05. Oktober 2024 in Magdeburg
