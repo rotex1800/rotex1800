@@ -6,12 +6,6 @@ title: Kalender
 [Die Termine können auch abonniert](https://storage.rotex1800.de/remote.php/dav/public-calendars/St4BEmjY2CqQaqHt?export) werden um sie im Kalender auf dem
 Smartphone oder Computer zu nutzen.
 
-## Weihnachts-Wochenende
-15\. bis 17. Dezember 2023 in Blankenburg
-
-## Interne Arbeitstage
-27\. bis 29. Dezember 2023 in Hambühren (Celle)
-
 ## Winter-Wochenende
 19\. bis 21. Januar 2024 in Wernigerode (Rotary)
 
