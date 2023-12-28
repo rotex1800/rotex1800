@@ -36,6 +36,20 @@ Smartphone oder Computer zu nutzen.
 ## Heide-Wochenende
 13\. bis 15. September 2024
 
-
 ## Welcome Camp
 30\. September bis 05. Oktober 2024 in Magdeburg
+
+## Länderinformation
+09\. November 2024 in Hannover
+
+## RJD Herbstagung
+22\. bis 24. November 2024 in Fulda
+
+## Bewerbungs-Wochenende
+29\. November bis 01. Dezember 2024 in Magdeburg
+
+## Weihnachts-Wochenende
+13\. bis 15. Dezember 2024, Ort folgt
+
+## Interne Arbeitstage
+27\. bis 29. Dezember 2024 in Hambühren (Celle)
