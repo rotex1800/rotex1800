@@ -27,6 +27,9 @@ Smartphone oder Computer zu nutzen.
 ## Outboundschulung
 28\. bis 30. Juni in Wolfsburg
 
+## 35 Jahre Rotex 1800
+07\. September 2024
+
 ## Heide-Wochenende
 13\. bis 15. September 2024
 
