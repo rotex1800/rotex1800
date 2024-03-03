@@ -6,9 +6,6 @@ title: Kalender
 [Die Termine können auch abonniert](https://storage.rotex1800.de/remote.php/dav/public-calendars/St4BEmjY2CqQaqHt?export) werden um sie im Kalender auf dem
 Smartphone oder Computer zu nutzen.
 
-## Faschings-Wochenende
-09\. bis 11. Februar 2024 in Hundisburg
-
 ## EuropaTour
 25\. März bis 14. April 2024
 
