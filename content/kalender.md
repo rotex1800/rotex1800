@@ -12,20 +12,23 @@ Smartphone oder Computer zu nutzen.
 ## EuropaTour Revival Wochenende
 03\. bis 05. Mai 2024 in Göttingen
 
-## Rotary International Convention + RYE Officers Preconventions
+## Rotary International Convention + RYE Officers Preconvention
 24\. bis 29. Mai 2024 in Singapur
 
 ## Goodbye Wochenende
 31\. Mai bis 02. Juni 2024 in Havelberg
 
 ## Outboundschulung
-28\. bis 30. Juni in Wolfsburg
+28\. bis 30. Juni 2024 in Wolfsburg
+
+## Reboundschulung + JHV + Gastelternschulung
+09\. bis 11. August 2024 in Hambühren (Celle)
 
 ## 35 Jahre Rotex 1800
 07\. September 2024
 
 ## Heide-Wochenende
-13\. bis 15. September 2024
+13\. bis 15. September 2024 in Soltau (Rotary
 
 ## Welcome Camp
 30\. September bis 05. Oktober 2024 in Magdeburg
@@ -47,3 +50,9 @@ Smartphone oder Computer zu nutzen.
 
 ## Winter-Wochenende
 17\. bis 19. Januar 2025 in Wernigerode (Rotary)
+
+## Faschings-Wochenende in Hundisburg
+14\. bis 16. Februar 2025
+
+## RJD-Frühjahrstagung
+14\. bis 16. März 2025 in Magdeburg
