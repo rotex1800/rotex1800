@@ -25,7 +25,7 @@ Smartphone oder Computer zu nutzen.
 09\. bis 11. August 2024 in Hambühren (Celle)
 
 ## 35 Jahre Rotex 1800
-07\. September 2024
+07\. September 2024 in Hannover
 
 ## Heide-Wochenende
 13\. bis 15. September 2024 in Soltau (Rotary
