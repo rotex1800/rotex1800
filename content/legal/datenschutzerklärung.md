@@ -18,9 +18,9 @@ Telefon: +49 15120 4213262 E-Mail: webmaster@rotex1800.de
 
 ## Vertreten durch
 * Frederik Pinkau
-* Benedict Augustin
+* Jette Hagelberg
 * Mara Fischer
-* Ben Müller
+* Jule Eimkemeier
 * Christina Brinkmeier
 
 
