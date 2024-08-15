@@ -7,13 +7,6 @@ title: Kalender
 werden um sie im Kalender auf dem
 Smartphone oder Computer zu nutzen.
 
-## Outboundschulung
-
-28\. bis 30. Juni 2024 in Wolfsburg
-
-## Reboundschulung + JHV + Gastelternschulung
-
-09\. bis 11. August 2024 in Hambühren (Celle)
 
 ## 35 Jahre Rotex 1800
 
@@ -21,7 +14,7 @@ Smartphone oder Computer zu nutzen.
 
 ## Heide-Wochenende
 
-13\. bis 15. September 2024 in Soltau (Rotary
+13\. bis 15. September 2024 in Soltau (Rotary)
 
 ## Welcome Camp
 
@@ -29,7 +22,7 @@ Smartphone oder Computer zu nutzen.
 
 ## Länderinformation
 
-09\. November 2024 in Hannover
+09\. November 2024 in Braunschweig
 
 ## RJD Herbstagung
 
@@ -58,3 +51,7 @@ Smartphone oder Computer zu nutzen.
 ## RJD-Frühjahrstagung
 
 14\. bis 16. März 2025 in Magdeburg
+
+## Good-Bye Wochenende
+
+23\. bis 25. Mai 2025 in Havelberg
