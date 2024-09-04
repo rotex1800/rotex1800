@@ -10,10 +10,10 @@ Breese in der Marsch 25
 
 29451 Dannenberg (Elbe)
 ## Vertreten durch:
-* Frederik Pinkau
-* Jette Hagelberg
-* Mara Fischer
+* Marlene Horrmann
 * Jule Eimkemeier
+* Keno Waldeck
+* Alma Rasch
 * Christina Brinkmeier
 
 ## Kontakt:
