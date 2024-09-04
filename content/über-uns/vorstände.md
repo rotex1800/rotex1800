@@ -39,7 +39,7 @@ Inbounds und Outbounds einen unvergesslichen Austausch zu ermöglichen. Ich bin 
 erreichen können, und freue mich auf die kommende Zeit!
 
 
-## Schatzmeister
+## Schatzmeister Keno Waldeck
 
 {{< figure src="/img/vorstand/Keno.jpeg" width="200px" class="float-left mr-4 mb-2" >}}
 
