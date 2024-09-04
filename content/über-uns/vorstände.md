@@ -9,88 +9,80 @@ weight: 2
 Der Vorstand des Rotex 1800 e.V. besteht aus fünf Mitgliedern und wird für zwei Jahre gewählt. Die Vorstandsmitglieder
 repräsentieren den Verein nach außen und dienen als Ansprechpartner:innen für Mitglieder des Vereins, Rotary und Andere.
 
-## Präsident Frederik Pinkau
+## Präsidentin Marlene Horrmann
 
-{{< figure src="/img/vorstand/Freddy.jpeg" width="200px" class="float-left mr-4 mb-2" >}}
+{{< figure src="/img/vorstand/Marlene.jpeg" width="200px" class="float-left mr-4 mb-2" >}}
 
-Hi!
+Hallo! Ich bin Marlene, 19 Jahre alt und studiere in Göttingen Rechtswissenschaften.
 
-ich bin Freddy, war 2017-2018 mit Rotary in Japan und wurde bei unserer letzten JHV zum Präsidenten des Rotex 1800 e.V.
-gewählt. Seit meiner Rückkehr nach Deutschland konnte ich bereits einige Vorstandspositionen kennenlernen: In zwei
-vorherigen Vorständen führte ich das Amt des Schatzmeisters und des Schriftführers durch.
+Ich war 2022/2023 im Austausch in Kolumbien. Zuvor habe ich bereits in der Vorbereitung auf den Austausch durch Rotex
+für mich erkannt, dass ich nach meinem Jahr selbst gerne Rotexerin werden möchte. Zurück in Deutschland durfte ich das
+vergangene Jahr verschiedenste Eindrücke sowohl in unserem Distrikt als auch distriktübergreifend als Ratsmitglied im
+Rotex Deutschlandrat sammeln. Ich freue mich auf die kommende Zeit als Präsidentin für Rotex 1800 und hoffe auf gute,
+produktive Zusammenarbeit.
 
-Als Präsident habe ich mir vor allem vorgenommen, den Verein und seine Mitglieder wieder auf den eigentlichen Zweck des
-Rotex 1800 e.V. einzustimmen: Die Arbeit mit unseren Inbounds. Dazu gehört für mich vor allem die Reaktivierung von
-älteren Rotexer:innen und die Wissensweitergabe an unsere Jüngeren, was z.B. die Organisation von Wochenenden angeht.
-Darüber hinaus freue ich mich auf eine engere Zusammenarbeit mit Rotex Deutschland und natürlich dem Rotary- Distrikt
-1800!
 
-## Vizepräsidentin Jette Hagelberg
-
-{{< figure src="/img/vorstand/Jette.jpeg" width="200px" class="float-left mr-4 mb-2" >}}
-
-Hi,
-
-ich bin Jette, 20 Jahre alt und studiere in Heidelberg Politikwissenschaften.
-2019/2020 verbrachte ich beim Auslandsjahr in den USA im Bundesstaat Oregon.
-
-Schon davor wusste ich eigentlich, dass ich Rotex1800 e.V. gerne beitreten würde, was ich nach meiner Rückkehr auch direkt getan habe. Und seit der Austausch nun auch wieder richtig stattfindet, habe ich gemerkt, wie viel Spaß es mir macht, die In-, Out- und Rebounds bei ihren Erfahrungen zu begleiten.
-
-Umso mehr freue ich mich, bei der JHV 2023 als neue Vizepräsidentin gewählt worden zu sein!
-Ich bin super motiviert mit dem Vorstand und den anderen, vor allem auch neuen, Rotexern den Verein weiter zu gestalten und den Inbounds und Outbounds zur Seite zu stehen!
-
-## Schatzmeisterin Jule Eimkemeier
+## Vizepräsidentin Jule Eimkemeier
 
 {{< figure src="/img/vorstand/Jule.jpeg" width="200px" class="float-left mr-4 mb-2" >}}
 
-ich bin Jule und studiere Medizin in Leipzig.
-2016/2017 habe ich mein Auslandsjahr in Chile verbracht und bin direkt nach meiner Rückkehr Rotex 1800 e.V. beigetreten.
-Schon als Outbound hat mich die Arbeit von Rotex sehr begeistert, deshalb versuche ich auch bei fast allen
-Veranstaltungen anwesend zu sein.
+Hallo, ich bin Jule.
 
-2023 wurde ich bei der JHV zur Schatzmeisterin gewählt und freue mich schon, mich noch ein bisschen mehr in den Verein
-einbringen zu können und mit dem Vorstand und den anderen Mitgliedern zusammenzuarbeiten und Projekte umzusetzen.
-Außerdem liegt der Fokus in den nächsten 2 Jahren natürlich darauf Outbounds & Rebounds von unserer Arbeit zu begeistern
-und so neue Mitglieder zu gewinnen.
+Im Jahr 2016/17 hatte ich das Glück, mein Auslandsjahr in Chile zu verbringen zu dürfen. Seit meiner Rückkehr bin ich
+Mitglied bei Rotex 1800 e.V.. In den letzten Jahren durfte ich viele spannende Erfahrungen sammeln, unter anderem als
+Schatzmeisterin im Vorstand. Dieses Jahr wurde ich zur Vizepräsidentin gewählt, und ich freue mich sehr darauf,
+gemeinsam mit dem neuen Vorstand und unseren engagierten Vereinsmitgliedern sowohl alte als auch neue Projekte zu
+realisieren.
 
-## Schriftführerin Mara Fischer
+Mein großes Ziel für die kommenden Jahre ist es, noch mehr neue Mitglieder für unseren Verein zu gewinnen und den
+Inbounds und Outbounds einen unvergesslichen Austausch zu ermöglichen. Ich bin überzeugt, dass wir gemeinsam viel
+erreichen können, und freue mich auf die kommende Zeit!
 
-{{< figure src="/img/vorstand/Mara.jpeg" width="200px" class="float-left mr-4 mb-2" >}}
+
+## Schatzmeister
+
+{{< figure src="/img/vorstand/Keno.jpeg" width="200px" class="float-left mr-4 mb-2" >}}
 
 Hallo,
 
-mein Name ist Mara und ich bin 19 Jahre alt. 2019/2020 verbrachte ich mein Auslandsjahr in Chile, in der Stadt Talca.
-Schon vor meinem Auslandsjahr stand fest, dass ich gerne Rotex beitreten möchte. Es ist super wichtig den Outbounds und
-den Inbounds zur Seite zu stehen und sie auf diesem aufregenden Weg zu unterstützen. Deshalb trat ich im Sommer 2020 dem
-Verein bei. Um noch mehr in den Verein einzutauchen habe ich mich 2022 bei der JHV entschieden mich zur neuen
-Schriftführerin wählen zu lassen. Ich bin noch sehr neu bei Rotex 1800 e.V. und hatte bisher noch keine
-Wochenenderlebnisse mit Inbounds. Nichtsdestotrotz bin ich super motiviert mit anzupacken und sowohl die neuen Outbounds
-vorzubereiten, als auch die neuen Inbounds in ihrem Jahr zu unterstützen und ihnen eine tolle Zeit zu ermöglichen.
+ich bin Keno, 18 Jahre alt und komme aus Burgwedel. Nach meinem Austausch 2022/2023 in Ecuador habe ich angefangen mich
+bei Rotex 1800 zu engagieren und die Arbeit rundum den Jugendaustausch ist seitdem Teil meines Alltags geworden.
+
+Ich freue mich darauf, mich als neuer Schatzmeister in den nächsten zwei Jahren nun noch mehr einzubringen und mehr
+Verantwortung zu übernehmen. Vielen Dank für euer Vertrauen und auf eine erfolgreiche Zusammenarbeit!
+
+## Schriftführerin Alma Rasch
+
+{{< figure src="/img/vorstand/Alma.jpeg" width="200px" class="float-left mr-4 mb-2" >}}
+
+Hallo, ich bin Alma und komme aus Genthin.
+
+2022/23 habe ich mein Austausch in Taiwan gemacht und bin jetzt seit einem Jahr bei Rotex dabei. Aktuell mache ich
+Abitur und habe nun mein neues Amt als Schriftführerin angenommen. Vielen Dank für Euer Vertrauen. Ich freue mich auf
+zwei schöne nächste Jahre mit euch.
+
 
 ## Fünftes Vorstandsmitglied Christina Brinkmeier
 
 {{< figure src="/img/vorstand/Christina.jpeg" width="200px" class="float-left mr-4" >}}
 
-Hey ich bin Christina,
+Hey ich bin Christina, studiere in Erfurt Psychologie und war 2014/15 in Brasilien im Austausch. Ich bin das 5.
+Vorstandsmitglied von Rotex 1800. Seit 2015 bin ich bei Rotex aktiv und seit zwei Jahren im Vorstand. Ich freue mich
+mehr als neun Jahre Rotex Erfahrung in mein neues Amt einbringen zu können. Endlich fängt das neue Austauschjahr an,
+denn es ist höchste Zeit, dass wir als Verein wieder tun, was wir am besten können. Vielen Dank für Euer Vertrauen. Auf
+zwei produktive, aufregende und ereignisreiche Jahre.
 
-studiere in Erfurt Psychologie und war 2014/15 in Brasilien im Austausch. Ich bin das neue 5. Vorstandsmitglied von
-Rotex 1800.
-Seit 2015 bin ich bei Rotex aktiv und obwohl ich noch kein Vorstandsamt inne hatte, freue ich mich, mehr als sieben
-Jahre Rotex Erfahrung in mein neues Amt einbringen zu können.
-
-Endlich fängt das neue Austauschjahr an, denn es ist höchste Zeit, dass wir als Verein wieder tun, was wir am besten
-können. Vielen Dank für Euer Vertrauen. Auf zwei produktive, aufregende und ereignisreiche Jahre.
 
  
 
 # Aktuelle und vergangene Vorstände
 
-Sofern nicht anders angegeben bezieht sich die Jahreszahl auf die Wahl während
-der JHV im Sommer.
+Sofern nicht anders angegeben bezieht sich die Jahreszahl auf die Wahl während der JHV im Sommer.
 
 | Jahr                 | Präsident:in        | Vizepräsident:in                   | Schatzmeister:in                   | Schriftführer:in | Beisitzer:in         |
 |----------------------|---------------------|------------------------------------|------------------------------------|------------------|----------------------|
-| 2023 bis heute       | Frederik Pinkau     | Jette Hagelberg                    | Jule Eimkemeier                    | Mara Fischer     | Christina Brinkmeier |
+| 2024 bis heute       | Marlene Horrmann    | Jule Eimkemeier                    | Keno Waldeck                       | Alma Rasch       | Christina Brinkmeier |
+| 2023 bis 2024        | Frederik Pinkau     | Jette Hagelberg                    | Jule Eimkemeier                    | Mara Fischer     | Christina Brinkmeier |
 | 2022 bis 2023        | Frederik Pinkau     | Benedict Augustin                  | Ben Müller                         | Mara Fischer     | Christina Brinkmeier |
 | Jan 2022 / 2022      | Lynn Kuhlwein       | Benedict Augustin                  | Freya Schütze                      | Frederik Pinkau  | Paul Schuberth       |
 | März 2021 / Jan 2022 | Lynn Kuhlwein       | Benedict Augustin                  | Florian Schickel                   | Frederik Pinkau  | Paul Schuberth       |
