@@ -17,3 +17,5 @@ title: Downloads
 [Antrag auf Reisekostenerstattung](/files/reisekosten-vorlage.pdf)
 
 [Beitrittsformular](/files/beitritts-formular.pdf)
+
+[Antrag auf passive Mitgliedschaft](/files/antrag-passive-mitgliedschaft.pdf)
