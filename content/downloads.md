@@ -4,11 +4,11 @@ title: Downloads
 ---
 ## EuropaTour
 
-[APPF](/files/appf-2024.pdf)
+[APPF](/files/appf-2025.pdf)
 
-[Reglen](/files/Verhaltensregeln.pdf)
+[Reglen](/files/verhaltensregeln-2025.pdf)
 
-[Info Flyer](/files/flyer-et-2024.pdf)
+[Info Flyer](/files/flyer-et-2025.pdf)
 
 ## Externe
 [Rotex Flyer](/files/rotex-flyer-allgemein.pdf)
