@@ -8,10 +8,6 @@ werden um sie im Kalender auf dem
 Smartphone oder Computer zu nutzen.
 
 
-## Weihnachts-Wochenende
-
-13\. bis 15. Dezember 2024, Ort folgt
-
 ## Interne Arbeitstage
 
 27\. bis 29. Dezember 2024 in Hambühren (Celle)
@@ -28,6 +24,26 @@ Smartphone oder Computer zu nutzen.
 
 14\. bis 16. März 2025 in Magdeburg
 
+## EuropaTour
+
+23\. März bis 12. April 2025 in Europa
+
+## ET Revival Wochenende
+
+April 2025. Genaues Datum und Ort noch unbekannt
+
 ## Good-Bye Wochenende
 
 23\. bis 25. Mai 2025 in Havelberg
+
+## Distriktkonferenz
+
+13\. bis 15. Juni 2025 in Walsrode
+
+## Outboundschulung
+
+27\. bis 29. Juni 2025 in Wolfsburg
+
+## Jahreshauptversammlung
+
+Datum und Ort noch unbekannt
