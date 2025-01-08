@@ -47,3 +47,7 @@ April 2025. Genaues Datum und Ort noch unbekannt
 ## Jahreshauptversammlung
 
 Datum und Ort noch unbekannt
+
+## DAChKo 2025
+
+22\. 25. August 2025 [veranstaltet von Rotex 1890](https://dachko.rotex.org/) in Hamburg
