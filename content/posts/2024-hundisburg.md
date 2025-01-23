@@ -1,6 +1,6 @@
 ---
 title: "Tour Revival Wochenende in Lüneburg 2023"
-date: 2024-02-113T10:30:00+02:00
+date: 2024-02-11T10:30:00+02:00
 ---
 
 Das Faschingswochenende vom 9. bis zum 11. Februar 2024 war für uns mit den Inbounds ein
@@ -14,7 +14,7 @@ Das Wochenende begann mit einer Einführung in unsere bevorstehende Europa-Tour 
 einem köstlichen Abendessen an einer Salatbar eingeleitet. Am Samstagmorgen machten wir uns
 auf den Weg zum Grenzdenkmal Hötensleben und besuchten anschließend die Gedenkstätte
 Marienborn. Dort erhielten wir durch fesselnde Zeitzeugenberichte interessante Einblicke in
-die Geschichte. 
+die Geschichte.
 
 Zurück auf der Hundisburg erwartete uns eine schmackhafte Sandwichbar, gefolgt von lustigen
 Fotosessions im Schlossgarten. Das Chaos-Spiel sorgte für ausgelassene Stimmung und viel
