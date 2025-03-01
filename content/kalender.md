@@ -8,18 +8,6 @@ werden um sie im Kalender auf dem
 Smartphone oder Computer zu nutzen.
 
 
-## Interne Arbeitstage
-
-27\. bis 29. Dezember 2024 in Hambühren (Celle)
-
-## Winter-Wochenende
-
-17\. bis 19. Januar 2025 in Wernigerode (Rotary)
-
-## Faschings-Wochenende in Hundisburg
-
-14\. bis 16. Februar 2025
-
 ## RJD-Frühjahrstagung
 
 14\. bis 16. März 2025 in Magdeburg
@@ -50,4 +38,12 @@ Datum und Ort noch unbekannt
 
 ## DAChKo 2025
 
-22\. 25. August 2025 [veranstaltet von Rotex 1890](https://dachko.rotex.org/) in Hamburg
+22\. bis 25. August 2025 [veranstaltet von Rotex 1890](https://dachko.rotex.org/) in Hamburg
+
+## Heidewochenende
+
+12\. bis 14. September 2025 in Soltau
+
+## Welcomecamp
+
+06\. bis 11. Oktober 2025 in Magdeburg
