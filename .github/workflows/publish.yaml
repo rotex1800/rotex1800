@@ -37,7 +37,7 @@ jobs:
           path: ./public/
 
       - name: Upload with FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.6
         with:
           local-dir: public/
           state-name: ../.ftp-deploy-sync-state.json
